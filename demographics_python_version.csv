@@ -1,0 +1,1501 @@
+person_id,person_race,state_abbreviation,education_level,person_gender,marital_status,number_of_children_in_household,number_of_adults_in_household,household_income,person_age
+932,Caucasian,MO,Grad Degree,M,Married,1,4,$38 ,75
+1246,African American,NC,HS Diploma,F,Married,0,4,$49 ,66
+6,NA,MO,HS Diploma,F,Married,2,NA,$104 ,26
+583,NA,KY,Some College,NA,Married,0,1,$142 ,42
+521,African American,SC,Bach Degree,F,Married,1,3,$63 ,42
+450,NA,GA,Grad Degree,M,Married,0,NA,$58 ,20
+1154,Caucasian,GA,Less Than HS Diploma,F,Unmarried,0,3,$78 ,87
+130,NA,OK,Grad Degree,M,Unmarried,0,NA,$73 ,26
+989,NA,MO,Bach Degree,M,Unmarried,NA,8,$218 ,24
+193,Caucasian,GA,HS Diploma,M,Unmarried,NA,NA,$67 ,Unknown
+855,NA,MO,Grad Degree,M,Married,0,NA,$131 ,31
+48,Caucasian,GA,Less Than HS Diploma,M,Unmarried,0,7,$43 ,45
+323,NA,AL,Bach Degree,F,Married,0,3,$92 ,62
+791,African American,GA,HS Diploma,M,Married,0,1,$47 ,76
+836,NA,NC,HS Diploma,F,Unmarried,0,NA,$53 ,30
+356,African American,SC,Bach Degree,F,Unmarried,NA,NA,$110 ,82
+415,NA,MO,HS Diploma,F,Married,0,2,$138 ,78
+745,Caucasian,KY,HS Diploma,NA,Married,0,1,$7 ,34
+7,NA,NC,Some College,NA,Married,0,1,$25 ,27
+364,African American,MO,HS Diploma,M,Married,0,1,$83 ,28
+80,Caucasian,GA,Some College,F,Married,0,5,$68 ,50
+656,Caucasian,GA,HS Diploma,F,Married,1,2,$43 ,25
+607,Hispanic,AL,HS Diploma,M,Married,NA,5,$83 ,Unknown
+923,Caucasian,SC,HS Diploma,F,Married,1,1,$76 ,27
+598,Caucasian,GA,Bach Degree,M,Unmarried,0,1,$75 ,30
+1133,African American,NC,Bach Degree,F,Married,0,4,$84 ,43
+834,Caucasian,MS,Some College,F,Married,0,1,$33 ,38
+512,Caucasian,NC,Some College,M,Married,1,2,$240 ,30
+647,African American,KY,HS Diploma,F,Unmarried,0,1,$70 ,69
+1278,Caucasian,MO,Grad Degree,F,Married,NA,NA,$92 ,67
+1194,Caucasian,TN,HS Diploma,F,Married,0,1,$46 ,61
+574,Caucasian,NC,HS Diploma,M,Unmarried,0,1,$26 ,62
+14,Caucasian,NC,NA,F,Married,3,3,$51 ,47
+292,African American,AL,Some College,M,Unmarried,2,6,$25 ,24
+318,NA,OK,Some College,F,Unmarried,NA,1,$112 ,44
+1418,Hispanic,AR,HS Diploma,F,Unmarried,1,4,$60 ,47
+1049,Caucasian,TN,Less Than HS Diploma,M,Unmarried,0,1,$23 ,25
+106,African American,GA,Grad Degree,M,Married,0,1,$122 ,31
+631,Caucasian,SC,HS Diploma,M,Unmarried,1,4,$16 ,23
+370,Caucasian,TN,Grad Degree,F,Unmarried,4,4,$99 ,70
+84,NA,AL,Bach Degree,F,Married,0,2,$166 ,75
+1164,Caucasian,MO,Some College,F,Married,0,4,$36 ,47
+160,African American,AL,Grad Degree,F,Unmarried,0,NA,$30 ,66
+297,African American,GA,Less Than HS Diploma,NA,Unmarried,0,1,$53 ,34
+877,NA,NC,Some College,M,Married,0,NA,$83 ,75
+158,Caucasian,GA,Some College,F,Married,1,5,$50 ,50
+349,Caucasian,GA,Bach Degree,M,Unmarried,0,8,$198 ,24
+1282,Caucasian,GA,Bach Degree,M,Unmarried,0,4,$65 ,24
+562,Caucasian,GA,HS Diploma,M,Unmarried,0,3,$18 ,33
+1271,African American,AL,Some College,M,Unmarried,0,1,$34 ,54
+646,Caucasian,SC,Some College,F,Married,NA,3,$84 ,32
+1430,Caucasian,SC,HS Diploma,M,Unmarried,0,1,$68 ,26
+196,NA,NC,Less Than HS Diploma,F,Married,0,1,$77 ,58
+1022,African American,SC,HS Diploma,M,Married,4,4,$7 ,49
+1004,Caucasian,AL,HS Diploma,M,Married,0,3,$86 ,52
+1205,NA,GA,Bach Degree,F,Married,NA,4,$113 ,43
+1258,African American,MO,Some College,M,Married,NA,1,$41 ,26
+702,Caucasian,NC,NA,M,Married,1,2,$73 ,20
+445,Caucasian,TN,HS Diploma,M,Unmarried,0,4,$80 ,20
+465,African American,NC,Some College,M,Unmarried,0,2,$68 ,25
+319,Caucasian,KY,Some College,M,Unmarried,0,8,$50 ,43
+1487,Caucasian,TN,HS Diploma,F,Unmarried,0,NA,$21 ,62
+1029,NA,GA,Some College,M,Married,0,1,$46 ,39
+208,Caucasian,GA,HS Diploma,NA,Unmarried,0,2,$86 ,58
+25,Caucasian,OK,Grad Degree,M,Unmarried,0,3,$82 ,30
+195,African American,NC,HS Diploma,F,Married,3,1,$96 ,39
+1162,Caucasian,SC,HS Diploma,M,Unmarried,0,3,$58 ,85
+568,Caucasian,GA,Some College,M,Married,0,NA,$57 ,34
+1335,NA,MO,Some College,F,Unmarried,NA,3,$129 ,36
+1435,Caucasian,NC,Bach Degree,M,Married,0,2,$20 ,79
+600,Caucasian,MO,Some College,M,Married,0,4,$37 ,37
+563,Caucasian,TN,Some College,F,Married,0,2,$59 ,70
+722,Caucasian,GA,Some College,F,Unmarried,0,1,$12 ,28
+1455,Caucasian,NC,Less Than HS Diploma,M,Unmarried,0,4,$13 ,54
+1061,NA,NC,HS Diploma,M,Unmarried,0,3,$41 ,70
+951,Caucasian,TN,HS Diploma,M,Unmarried,0,3,$47 ,83
+1317,African American,AL,HS Diploma,F,Unmarried,0,1,$7 ,71
+1125,NA,TN,HS Diploma,F,Unmarried,0,3,$96 ,68
+30,Caucasian,AL,HS Diploma,F,Married,0,5,$10 ,65
+808,NA,MO,Less Than HS Diploma,M,Married,0,1,$87 ,63
+1239,Caucasian,MS,HS Diploma,NA,Married,0,1,$58 ,49
+303,African American,NC,Less Than HS Diploma,NA,Unmarried,0,1,$9 ,34
+619,Hispanic,GA,Bach Degree,F,Unmarried,1,4,$102 ,23
+515,NA,MS,Some College,M,Married,0,3,$72 ,69
+1408,Caucasian,SC,Some College,M,Unmarried,NA,7,$133 ,62
+1396,Caucasian,OK,Some College,M,Unmarried,0,3,$45 ,28
+1470,Caucasian,MS,HS Diploma,F,Married,0,3,$50 ,61
+290,Caucasian,KY,Bach Degree,M,Unmarried,NA,NA,$96 ,Unknown
+92,African American,NC,Bach Degree,M,Married,0,1,$130 ,39
+1062,African American,NC,HS Diploma,F,Unmarried,0,1,$35 ,53
+121,Asian,NC,HS Diploma,NA,Unmarried,0,1,$92 ,31
+326,NA,SC,Bach Degree,F,Married,0,1,$239 ,52
+988,Caucasian,OK,Less Than HS Diploma,F,Unmarried,0,1,$19 ,20
+577,NA,AL,HS Diploma,F,Married,0,1,$63 ,67
+267,African American,AR,Grad Degree,F,Unmarried,0,1,$19 ,37
+296,NA,AL,Some College,F,Married,0,1,$79 ,22
+177,Caucasian,SC,Some College,F,Unmarried,0,3,$41 ,87
+554,Asian,GA,HS Diploma,F,Unmarried,0,NA,$82 ,62
+1104,Caucasian,KY,Bach Degree,M,Married,0,4,$52 ,78
+620,Caucasian,AL,Bach Degree,F,Married,0,2,$63 ,65
+379,Caucasian,AL,HS Diploma,F,Unmarried,0,8,$44 ,31
+293,Caucasian,AR,Some College,F,Married,0,1,$70 ,59
+330,African American,GA,HS Diploma,F,Married,0,NA,$67 ,42
+593,Caucasian,MO,Some College,F,Married,0,NA,$6 ,57
+1218,Caucasian,MO,Bach Degree,M,Unmarried,NA,1,$231 ,28
+1197,Caucasian,TN,Less Than HS Diploma,M,Unmarried,0,1,$58 ,33
+1256,Caucasian,NC,Some College,F,Unmarried,0,4,$53 ,62
+404,Asian,GA,Grad Degree,NA,Unmarried,2,NA,$82 ,35
+1109,NA,SC,HS Diploma,F,Unmarried,0,7,$64 ,75
+1443,NA,TN,Bach Degree,F,Unmarried,4,3,$90 ,31
+1416,Caucasian,AL,Bach Degree,F,Married,1,3,$58 ,37
+940,NA,TN,Bach Degree,NA,Married,NA,NA,$81 ,47
+634,Asian,GA,Bach Degree,NA,Unmarried,0,3,$71 ,32
+1148,Hispanic,TN,Less Than HS Diploma,M,Unmarried,0,1,$89 ,39
+643,African American,AR,Less Than HS Diploma,F,Married,0,2,$46 ,52
+839,African American,SC,Less Than HS Diploma,M,Unmarried,0,2,$80 ,29
+72,Caucasian,KY,Some College,M,Unmarried,NA,4,$133 ,33
+1312,Caucasian,SC,HS Diploma,F,Unmarried,0,2,$15 ,68
+812,African American,MO,HS Diploma,F,Married,0,1,$61 ,62
+429,African American,SC,Some College,NA,Unmarried,0,2,$48 ,28
+931,Caucasian,MO,Grad Degree,F,Unmarried,NA,NA,$79 ,42
+15,Caucasian,NC,NA,F,Unmarried,NA,4,$145 ,61
+200,NA,NC,HS Diploma,M,Married,0,NA,$223 ,52
+1082,Caucasian,GA,HS Diploma,NA,Married,0,1,$18 ,25
+827,Caucasian,OK,Some College,M,Married,0,4,$85 ,61
+1449,Caucasian,MO,Some College,M,Married,0,1,$65 ,38
+706,Caucasian,GA,Bach Degree,M,Married,NA,1,$70 ,21
+287,African American,SC,Bach Degree,M,Married,0,4,$74 ,60
+539,NA,MO,HS Diploma,M,Married,0,2,$112 ,Unknown
+229,NA,GA,Grad Degree,F,Unmarried,0,2,$15 ,78
+545,Caucasian,SC,Some College,F,Unmarried,0,1,$55 ,47
+1279,Caucasian,MS,Grad Degree,M,Married,0,2,$111 ,37
+969,Caucasian,MO,Grad Degree,NA,Married,0,2,$59 ,47
+800,African American,GA,Grad Degree,F,Unmarried,0,NA,$145 ,51
+478,Caucasian,GA,Some College,M,Married,0,1,$73 ,22
+124,African American,GA,Some College,F,Married,NA,7,$87 ,53
+1192,African American,GA,Less Than HS Diploma,M,Unmarried,0,3,$23 ,63
+742,Caucasian,NC,Grad Degree,M,Married,0,3,$40 ,97
+787,Caucasian,MO,HS Diploma,F,Unmarried,0,NA,$9 ,45
+838,NA,NC,Some College,F,Married,1,3,$82 ,37
+334,Caucasian,GA,Grad Degree,F,Married,0,2,$94 ,62
+136,Caucasian,GA,HS Diploma,F,Married,2,6,$54 ,57
+806,African American,NC,NA,NA,Unmarried,NA,5,$84 ,22
+1036,Caucasian,AR,Grad Degree,F,Married,0,3,$75 ,54
+997,Caucasian,KY,HS Diploma,F,Married,0,2,$10 ,49
+487,Hispanic,GA,Some College,F,Married,0,1,$81 ,48
+1057,NA,NC,Bach Degree,F,Married,2,NA,$72 ,40
+1003,NA,GA,Some College,M,Unmarried,NA,3,$65 ,68
+762,Caucasian,MO,Less Than HS Diploma,F,Married,3,NA,$109 ,22
+975,Caucasian,MO,HS Diploma,M,Married,0,4,$60 ,57
+1085,Caucasian,KY,Grad Degree,F,Married,NA,2,$92 ,33
+1298,Hispanic,AR,Some College,M,Married,0,3,$55 ,40
+869,Caucasian,NC,Grad Degree,NA,Married,0,2,$55 ,45
+964,Caucasian,SC,Some College,F,Married,NA,2,$128 ,47
+1366,NA,AL,Some College,M,Married,NA,6,$204 ,Unknown
+1446,Caucasian,OK,Some College,F,Married,0,3,$64 ,49
+1404,African American,GA,HS Diploma,F,Unmarried,0,1,$42 ,65
+1010,African American,NC,Some College,F,Married,0,3,$2 ,62
+526,Caucasian,TN,HS Diploma,M,Married,0,4,$55 ,61
+858,Caucasian,AL,HS Diploma,M,Unmarried,0,3,$24 ,21
+460,Caucasian,MO,Bach Degree,F,Married,0,2,$63 ,63
+995,African American,SC,Some College,F,Unmarried,2,4,$48 ,24
+1028,Caucasian,SC,Some College,NA,Married,0,1,$57 ,43
+1326,Caucasian,OK,Grad Degree,F,Married,NA,1,$91 ,27
+286,Asian,GA,HS Diploma,F,Unmarried,0,1,$69 ,49
+357,African American,NC,Less Than HS Diploma,M,Married,NA,3,$66 ,55
+657,African American,SC,HS Diploma,M,Unmarried,0,1,$86 ,58
+1499,Caucasian,KY,HS Diploma,M,Married,0,2,$48 ,Unknown
+1473,Caucasian,AR,HS Diploma,M,Unmarried,0,NA,$116 ,66
+1055,Caucasian,SC,Bach Degree,F,Married,0,2,$75 ,76
+530,Caucasian,NC,HS Diploma,F,Unmarried,3,5,$3 ,22
+1198,Caucasian,NC,Some College,NA,Married,0,NA,$52 ,Unknown
+339,African American,GA,Some College,M,Unmarried,0,1,$52 ,52
+1101,Caucasian,GA,Less Than HS Diploma,M,Married,4,4,$36 ,46
+1482,Caucasian,SC,Some College,M,Unmarried,NA,8,$101 ,58
+1304,Caucasian,SC,Some College,M,Unmarried,0,3,$39 ,53
+476,Caucasian,AL,Grad Degree,M,Unmarried,4,4,$148 ,24
+823,Caucasian,TN,Less Than HS Diploma,M,Married,0,2,$21 ,47
+602,Asian,NC,HS Diploma,F,Married,NA,2,$11 ,56
+1141,NA,SC,HS Diploma,M,Unmarried,0,3,$60 ,32
+382,Hispanic,AL,Less Than HS Diploma,M,Unmarried,0,8,$67 ,80
+1181,Caucasian,MS,Bach Degree,F,Married,1,1,$85 ,34
+1409,NA,KY,HS Diploma,F,Married,NA,1,$86 ,71
+468,Caucasian,MO,Less Than HS Diploma,F,Unmarried,1,1,$89 ,30
+881,Caucasian,NC,Some College,M,Married,0,2,$61 ,54
+29,Hispanic,KY,Less Than HS Diploma,M,Unmarried,0,4,$28 ,28
+1492,NA,,Some College,M,Married,NA,3,$220 ,48
+1286,Caucasian,MO,Bach Degree,M,Married,0,2,$61 ,36
+760,Caucasian,KY,HS Diploma,F,Unmarried,0,1,$12 ,60
+1269,Caucasian,AL,Some College,M,Married,0,2,$43 ,29
+904,Caucasian,NC,Bach Degree,NA,Married,0,1,$28 ,45
+1026,Caucasian,GA,HS Diploma,F,Married,0,1,$50 ,21
+282,Caucasian,SC,NA,M,Unmarried,0,1,$63 ,48
+1349,Hispanic,AL,Some College,NA,Married,0,1,$75 ,42
+1165,African American,GA,HS Diploma,F,Unmarried,2,6,$39 ,51
+1071,NA,OK,HS Diploma,F,Married,0,3,$57 ,49
+1410,Caucasian,MS,Grad Degree,F,Married,0,3,$171 ,64
+1107,Caucasian,NC,Grad Degree,M,Married,1,5,$87 ,75
+735,NA,NC,Grad Degree,F,Married,2,2,$257 ,Unknown
+575,Caucasian,MO,Less Than HS Diploma,F,Unmarried,1,4,$25 ,28
+19,Asian,NC,HS Diploma,M,Unmarried,0,5,$64 ,48
+977,African American,GA,HS Diploma,M,Unmarried,0,1,$24 ,55
+183,Hispanic,AL,Less Than HS Diploma,F,Unmarried,0,2,$28 ,57
+1160,Caucasian,GA,HS Diploma,F,Unmarried,0,2,$23 ,38
+1360,Caucasian,NC,HS Diploma,F,Unmarried,NA,4,$69 ,68
+1259,Hispanic,KY,Less Than HS Diploma,M,Unmarried,0,1,$45 ,68
+816,Caucasian,OK,NA,F,Married,NA,2,$60 ,43
+224,African American,MO,HS Diploma,M,Unmarried,0,1,$27 ,64
+1020,NA,AL,Some College,F,Married,4,NA,$58 ,38
+1007,African American,MS,Some College,F,Unmarried,0,3,$18 ,20
+764,African American,NC,Some College,F,Married,NA,2,$55 ,48
+335,Caucasian,SC,HS Diploma,M,Unmarried,1,6,$15 ,36
+717,Caucasian,TN,Some College,M,Married,NA,2,$141 ,40
+233,Hispanic,TN,Less Than HS Diploma,M,Married,1,NA,$89 ,23
+1358,Caucasian,GA,HS Diploma,M,Unmarried,0,1,$30 ,31
+285,Caucasian,GA,Less Than HS Diploma,M,Unmarried,0,2,$64 ,20
+366,African American,GA,HS Diploma,M,Married,1,1,$19 ,41
+348,Caucasian,OK,HS Diploma,M,Married,0,2,$18 ,52
+737,African American,NC,HS Diploma,F,Married,0,2,$71 ,43
+832,Caucasian,KY,HS Diploma,F,Married,2,6,$65 ,24
+1331,Hispanic,MS,Less Than HS Diploma,M,Married,0,2,$71 ,54
+407,NA,NC,HS Diploma,F,Married,0,3,$54 ,59
+231,African American,MO,HS Diploma,F,Married,1,3,$28 ,53
+801,Caucasian,KY,Some College,M,Married,0,3,$55 ,47
+1402,Caucasian,TN,Bach Degree,M,Married,4,4,$67 ,56
+847,Caucasian,TN,Less Than HS Diploma,F,Unmarried,0,1,$19 ,71
+707,Caucasian,GA,Less Than HS Diploma,F,Unmarried,0,1,$5 ,31
+254,Hispanic,MS,Less Than HS Diploma,NA,Married,0,1,$44 ,43
+1064,Caucasian,KY,Some College,F,Married,0,5,$59 ,22
+1426,African American,AR,Bach Degree,M,Unmarried,0,2,$22 ,21
+45,Caucasian,AL,Some College,M,Unmarried,0,1,$26 ,23
+44,Caucasian,SC,Bach Degree,M,Married,0,2,$71 ,46
+803,NA,GA,HS Diploma,M,Unmarried,NA,6,$76 ,66
+755,Caucasian,MO,Less Than HS Diploma,F,Married,0,2,$55 ,65
+867,Hispanic,NC,Grad Degree,M,Unmarried,0,1,$71 ,26
+427,Caucasian,SC,NA,M,Married,0,1,$83 ,61
+1297,Caucasian,OK,Some College,F,Married,0,2,$181 ,52
+856,NA,GA,Bach Degree,F,Unmarried,0,8,$129 ,20
+410,Hispanic,GA,Some College,M,Married,0,1,$45 ,23
+715,Caucasian,GA,HS Diploma,M,Married,0,4,$93 ,61
+1030,Caucasian,MO,Some College,M,Married,NA,4,$65 ,52
+859,African American,GA,HS Diploma,M,Married,0,1,$64 ,21
+1065,Caucasian,MO,Some College,F,Unmarried,0,1,$65 ,60
+1273,African American,NC,HS Diploma,M,Married,1,3,$71 ,50
+908,Caucasian,SC,Some College,F,Unmarried,0,1,$43 ,81
+546,Caucasian,NC,HS Diploma,F,Married,0,NA,$42 ,74
+302,NA,KY,Bach Degree,F,Married,NA,2,$149 ,49
+13,NA,NC,Grad Degree,F,Married,1,4,$91 ,45
+532,Caucasian,OK,HS Diploma,F,Married,0,NA,$56 ,70
+934,NA,AL,Grad Degree,M,Married,0,NA,$105 ,30
+308,NA,TN,Some College,M,Unmarried,0,6,$24 ,88
+999,Asian,GA,NA,M,Unmarried,0,4,$29 ,32
+122,Caucasian,TN,Some College,F,Unmarried,0,3,$57 ,47
+1463,Caucasian,MO,Grad Degree,M,Unmarried,0,3,$49 ,28
+1434,Caucasian,TN,Less Than HS Diploma,M,Unmarried,0,NA,$33 ,27
+986,Caucasian,GA,Grad Degree,M,Married,NA,1,$14 ,56
+635,Caucasian,GA,Some College,F,Unmarried,2,3,$40 ,23
+120,Caucasian,GA,Some College,F,Unmarried,0,3,$48 ,46
+1153,African American,GA,Less Than HS Diploma,F,Unmarried,0,1,$57 ,69
+322,Caucasian,GA,Some College,M,Married,0,2,$33 ,30
+327,African American,MO,Less Than HS Diploma,F,Unmarried,0,1,$1 ,79
+1390,Caucasian,MS,Less Than HS Diploma,F,Unmarried,0,2,$20 ,54
+1249,Caucasian,NC,HS Diploma,M,Married,0,7,$97 ,59
+1354,NA,AR,Bach Degree,F,Unmarried,NA,4,$76 ,60
+361,Caucasian,SC,Some College,M,Unmarried,3,3,$68 ,52
+1083,Asian,AL,Some College,M,Unmarried,0,1,$71 ,45
+174,NA,AR,Grad Degree,F,Unmarried,NA,1,$88 ,Unknown
+270,NA,NC,NA,M,Married,0,NA,$146 ,41
+1100,African American,MO,Less Than HS Diploma,M,Unmarried,0,1,$11 ,55
+700,NA,AR,HS Diploma,F,Married,0,4,$125 ,54
+409,African American,MO,HS Diploma,F,Married,0,3,$72 ,68
+1417,Hispanic,OK,Less Than HS Diploma,M,Married,1,2,$7 ,22
+1285,Caucasian,AR,Some College,F,Married,1,2,$5 ,26
+1180,Caucasian,TN,HS Diploma,F,Unmarried,0,5,$58 ,27
+1398,Hispanic,MO,Less Than HS Diploma,M,Married,0,1,$7 ,48
+1240,Caucasian,TN,NA,M,Married,2,NA,$203 ,Unknown
+1149,NA,OK,HS Diploma,F,Unmarried,NA,NA,$86 ,23
+984,African American,AR,Some College,F,Unmarried,1,5,$82 ,99
+1493,Caucasian,KY,HS Diploma,F,Married,0,1,$7 ,31
+783,African American,SC,HS Diploma,F,Unmarried,2,4,$67 ,Unknown
+743,NA,GA,Less Than HS Diploma,M,Married,0,3,$80 ,41
+825,Caucasian,MO,HS Diploma,F,Unmarried,0,4,$25 ,67
+809,Caucasian,GA,Bach Degree,M,Unmarried,NA,7,$96 ,43
+414,Caucasian,AR,HS Diploma,F,Unmarried,1,5,$51 ,47
+1296,NA,KY,HS Diploma,F,Unmarried,0,3,$43 ,44
+516,Caucasian,MS,HS Diploma,F,Married,0,2,$56 ,68
+18,Caucasian,GA,Some College,M,Married,NA,4,$95 ,67
+880,NA,NC,Less Than HS Diploma,F,Unmarried,1,7,$68 ,22
+954,Caucasian,SC,Some College,M,Married,NA,NA,$68 ,79
+1369,African American,OK,Bach Degree,F,Unmarried,0,1,$39 ,24
+1139,Caucasian,OK,HS Diploma,F,Unmarried,0,1,$35 ,40
+627,African American,KY,HS Diploma,F,Married,0,2,$22 ,56
+1207,Hispanic,GA,HS Diploma,M,Married,0,1,$98 ,68
+1295,Caucasian,GA,HS Diploma,F,Married,0,4,$151 ,71
+133,Caucasian,SC,HS Diploma,F,Unmarried,0,1,$55 ,52
+871,Caucasian,GA,HS Diploma,F,Married,0,5,$50 ,64
+369,African American,MO,Some College,M,Married,3,5,$127 ,46
+376,NA,TN,HS Diploma,F,Married,0,NA,$64 ,47
+673,NA,OK,Less Than HS Diploma,M,Married,0,1,$89 ,22
+590,African American,,Grad Degree,NA,Unmarried,0,NA,$123 ,54
+273,African American,MS,Grad Degree,M,Unmarried,0,3,$41 ,95
+1474,NA,KY,Grad Degree,M,Married,0,6,$24 ,36
+1467,African American,NC,HS Diploma,F,Unmarried,0,1,$39 ,57
+1423,Caucasian,AR,HS Diploma,F,Unmarried,0,1,$15 ,65
+249,Caucasian,SC,HS Diploma,F,Unmarried,3,3,$51 ,48
+178,Caucasian,MS,Less Than HS Diploma,M,Unmarried,0,1,$59 ,75
+852,Caucasian,MO,HS Diploma,M,Married,0,2,$47 ,33
+246,Caucasian,MO,Some College,M,Married,2,2,$273 ,43
+1254,NA,NC,Bach Degree,M,Married,0,2,$108 ,42
+1167,NA,TN,Bach Degree,F,Unmarried,NA,NA,$258 ,68
+1324,NA,GA,Bach Degree,M,Married,0,NA,$183 ,38
+1214,African American,AL,Bach Degree,F,Unmarried,0,2,$74 ,87
+916,African American,TN,Less Than HS Diploma,M,Unmarried,0,1,$21 ,87
+180,African American,NC,Less Than HS Diploma,M,Married,0,1,$53 ,34
+1243,Caucasian,AL,Less Than HS Diploma,M,Unmarried,0,1,$14 ,26
+1345,NA,NC,Some College,M,Unmarried,0,1,$92 ,27
+316,Caucasian,MS,Less Than HS Diploma,M,Married,0,NA,$80 ,35
+424,Caucasian,KY,Less Than HS Diploma,F,Married,1,6,$57 ,35
+1481,African American,NC,HS Diploma,M,Married,0,2,$14 ,62
+551,Caucasian,AR,Some College,F,Married,0,2,$40 ,77
+1176,Caucasian,MO,HS Diploma,F,Married,0,4,$30 ,74
+761,Caucasian,AL,Less Than HS Diploma,F,Married,0,3,$30 ,70
+1318,Caucasian,KY,Less Than HS Diploma,F,Married,0,2,$71 ,60
+1024,African American,SC,Some College,NA,Unmarried,1,4,$50 ,60
+983,African American,SC,Some College,F,Married,0,4,$90 ,70
+405,Caucasian,OK,HS Diploma,M,Married,0,3,$2 ,42
+1206,Caucasian,KY,Some College,F,Unmarried,0,5,$96 ,52
+474,Caucasian,KY,Bach Degree,F,Married,NA,2,$147 ,40
+134,Caucasian,GA,NA,F,Married,1,4,$130 ,37
+1250,Caucasian,OK,Some College,F,Married,0,1,$20 ,33
+597,Asian,GA,Grad Degree,M,Unmarried,NA,4,$66 ,63
+17,Caucasian,AR,HS Diploma,F,Married,0,1,$56 ,77
+748,Caucasian,AL,Some College,M,Unmarried,0,1,$51 ,45
+1009,Caucasian,GA,HS Diploma,M,Married,0,1,$64 ,57
+681,Caucasian,SC,HS Diploma,F,Unmarried,NA,4,$53 ,36
+953,NA,GA,NA,M,Married,NA,NA,$53 ,Unknown
+946,Hispanic,AR,NA,F,Married,0,2,$59 ,33
+985,NA,NC,NA,M,Married,0,NA,$60 ,40
+921,Caucasian,NC,Some College,M,Unmarried,NA,8,$109 ,51
+426,Caucasian,SC,Less Than HS Diploma,M,Unmarried,0,1,$28 ,51
+469,Hispanic,AL,Less Than HS Diploma,F,Married,0,3,$73 ,31
+776,Caucasian,SC,Some College,M,Married,NA,1,$76 ,54
+421,NA,KY,Bach Degree,F,Married,NA,NA,$157 ,58
+85,Hispanic,AL,Less Than HS Diploma,M,Unmarried,0,1,$50 ,54
+1339,Caucasian,GA,Some College,F,Married,0,2,$53 ,24
+506,African American,TN,Grad Degree,F,Unmarried,0,NA,$17 ,31
+613,Caucasian,GA,HS Diploma,F,Unmarried,2,3,$56 ,71
+1247,Caucasian,MS,HS Diploma,M,Unmarried,0,3,$25 ,49
+966,Caucasian,AL,HS Diploma,M,Married,0,4,$31 ,87
+151,Caucasian,GA,Bach Degree,M,Married,0,2,$54 ,Unknown
+452,NA,AL,Grad Degree,F,Unmarried,NA,NA,$143 ,48
+963,Caucasian,MO,NA,M,Married,0,4,$55 ,38
+138,Caucasian,AL,Some College,M,Married,0,2,$43 ,37
+5,African American,NC,Grad Degree,F,Married,0,2,$61 ,41
+637,NA,GA,Bach Degree,F,Married,NA,NA,$77 ,53
+128,Caucasian,NC,Some College,F,Married,1,2,$32 ,37
+592,Caucasian,NC,Some College,F,Married,5,2,$88 ,44
+464,Caucasian,GA,Some College,F,Married,0,3,$71 ,63
+1076,Caucasian,MO,Some College,M,Married,3,3,$12 ,28
+123,NA,MO,NA,M,Married,0,NA,$75 ,60
+690,NA,MO,Less Than HS Diploma,M,Married,NA,2,$39 ,48
+1232,African American,GA,Less Than HS Diploma,F,Unmarried,0,1,$85 ,37
+1023,African American,NC,HS Diploma,M,Unmarried,0,1,$25 ,59
+145,Caucasian,MS,Some College,M,Unmarried,5,3,$53 ,76
+1384,Caucasian,OK,Less Than HS Diploma,F,Married,0,2,$60 ,52
+432,NA,NC,Grad Degree,M,Unmarried,NA,NA,$112 ,Unknown
+470,Hispanic,MS,Less Than HS Diploma,M,Married,0,2,$34 ,65
+661,Hispanic,NC,HS Diploma,M,Unmarried,0,3,$35 ,84
+578,Caucasian,AL,HS Diploma,F,Unmarried,1,4,$33 ,43
+1251,NA,NC,Grad Degree,F,Unmarried,0,1,$48 ,36
+744,African American,MO,Some College,F,Married,NA,1,$31 ,28
+879,Caucasian,AL,Less Than HS Diploma,M,Married,0,1,$20 ,44
+960,Caucasian,TN,Some College,F,Unmarried,1,NA,$1 ,37
+434,NA,GA,Bach Degree,F,Married,NA,6,$87 ,49
+1189,Caucasian,TN,Grad Degree,F,Married,1,NA,$110 ,51
+615,NA,GA,Some College,F,Unmarried,0,NA,$53 ,Unknown
+107,Caucasian,NC,Some College,M,Married,0,NA,$90 ,Unknown
+576,Caucasian,SC,HS Diploma,M,Married,0,4,$24 ,37
+557,Caucasian,MO,Some College,M,Married,0,1,$68 ,36
+425,African American,AL,Bach Degree,F,Married,0,1,$62 ,34
+824,NA,MO,HS Diploma,F,Unmarried,NA,1,$92 ,32
+797,African American,AL,HS Diploma,F,Unmarried,0,1,$21 ,57
+1450,NA,KY,Bach Degree,M,Married,2,NA,$81 ,26
+1175,Caucasian,GA,Less Than HS Diploma,M,Unmarried,NA,4,$108 ,26
+340,Caucasian,AR,Grad Degree,F,Married,1,NA,$36 ,68
+534,African American,MO,Bach Degree,M,Married,0,2,$52 ,34
+239,Caucasian,GA,Grad Degree,F,Married,NA,NA,$82 ,Unknown
+283,Caucasian,SC,Some College,M,Married,0,NA,$66 ,25
+144,African American,NC,HS Diploma,F,Unmarried,0,1,$8 ,26
+1327,Caucasian,OK,Some College,M,Married,2,3,$59 ,42
+535,Caucasian,SC,HS Diploma,M,Unmarried,0,NA,$90 ,25
+1392,Caucasian,OK,Less Than HS Diploma,M,Unmarried,0,1,$45 ,65
+1135,Caucasian,TN,Bach Degree,M,Married,NA,NA,$75 ,83
+936,NA,NC,Some College,F,Married,1,2,$84 ,67
+1472,NA,MS,Bach Degree,M,Unmarried,NA,NA,$53 ,38
+191,NA,AR,Bach Degree,M,Unmarried,0,1,$52 ,32
+165,NA,NC,Less Than HS Diploma,F,Married,NA,NA,$60 ,20
+956,African American,AR,HS Diploma,NA,Married,0,1,$71 ,26
+540,Caucasian,TN,Some College,M,Unmarried,0,5,$43 ,20
+1228,African American,NC,Some College,NA,Unmarried,NA,1,$77 ,45
+280,Hispanic,GA,Some College,M,Married,0,1,$34 ,22
+1362,Caucasian,OK,Less Than HS Diploma,F,Married,0,1,$46 ,33
+731,NA,AL,HS Diploma,M,Unmarried,0,6,$88 ,75
+1119,Caucasian,OK,HS Diploma,F,Married,2,2,$83 ,47
+641,Caucasian,NC,Bach Degree,M,Married,0,NA,$51 ,27
+466,Caucasian,AL,Some College,F,Married,0,2,$0 ,60
+709,Caucasian,GA,Some College,M,Married,1,2,$0 ,36
+861,Caucasian,GA,HS Diploma,F,Married,0,2,$20 ,75
+1052,NA,AL,Some College,M,Unmarried,0,1,$44 ,61
+1371,Hispanic,GA,Less Than HS Diploma,M,Unmarried,0,1,$49 ,50
+901,Caucasian,MS,Grad Degree,F,Married,0,2,$144 ,Unknown
+147,Caucasian,AR,Some College,M,Married,0,3,$34 ,55
+1405,NA,KY,Grad Degree,M,Married,NA,4,$126 ,65
+83,NA,GA,Some College,M,Married,NA,NA,$294 ,20
+188,Caucasian,TN,Less Than HS Diploma,M,Married,0,1,$19 ,51
+33,NA,NC,Some College,M,Married,0,1,$54 ,41
+307,African American,MS,HS Diploma,F,Unmarried,0,3,$35 ,67
+965,Caucasian,AR,HS Diploma,M,Unmarried,0,4,$56 ,37
+483,Caucasian,OK,Less Than HS Diploma,F,Unmarried,0,4,$28 ,53
+1195,Caucasian,KY,HS Diploma,M,Married,0,1,$17 ,45
+1031,Caucasian,KY,HS Diploma,F,Married,0,1,$2 ,64
+1182,Caucasian,MO,Bach Degree,M,Married,NA,3,$90 ,46
+751,African American,AL,Grad Degree,F,Unmarried,0,2,$12 ,89
+2,NA,AL,Bach Degree,M,Married,0,NA,$134 ,42
+186,African American,OK,HS Diploma,M,Unmarried,0,1,$56 ,61
+401,Caucasian,GA,Bach Degree,M,Unmarried,0,3,$45 ,47
+126,Caucasian,GA,NA,F,Married,NA,NA,$288 ,Unknown
+979,NA,AL,HS Diploma,F,Married,NA,1,$59 ,65
+1244,Caucasian,OK,HS Diploma,M,Unmarried,0,1,$94 ,Unknown
+1006,African American,NC,Bach Degree,M,Unmarried,NA,5,$50 ,38
+93,Caucasian,GA,NA,M,Unmarried,NA,3,$91 ,56
+749,African American,NC,HS Diploma,M,Unmarried,0,2,$12 ,25
+659,Hispanic,TN,Less Than HS Diploma,M,Unmarried,0,4,$136 ,55
+1424,Hispanic,SC,Some College,M,Unmarried,0,1,$7 ,26
+324,Caucasian,MO,Some College,NA,Married,0,1,$19 ,39
+456,Caucasian,GA,Some College,F,Married,0,2,$34 ,81
+168,NA,AL,Bach Degree,M,Unmarried,0,3,$65 ,57
+161,NA,SC,Some College,F,Married,0,2,$26 ,54
+1370,Caucasian,MO,Less Than HS Diploma,M,Unmarried,0,3,$6 ,51
+943,Caucasian,GA,Less Than HS Diploma,F,Married,0,2,$43 ,82
+60,Caucasian,TN,Some College,M,Married,1,5,$72 ,45
+922,Caucasian,KY,HS Diploma,F,Married,0,2,$31 ,63
+982,NA,TN,Bach Degree,F,Unmarried,3,NA,$77 ,25
+1091,Caucasian,TN,HS Diploma,M,Married,0,4,$63 ,38
+895,NA,NC,Some College,M,Married,0,NA,$109 ,50
+230,Hispanic,TN,HS Diploma,M,Married,0,2,$38 ,59
+674,Caucasian,TN,Bach Degree,F,Unmarried,NA,1,$70 ,28
+599,African American,GA,Bach Degree,M,Married,1,4,$82 ,34
+64,NA,SC,Bach Degree,NA,Unmarried,0,NA,$79 ,22
+1403,African American,GA,Less Than HS Diploma,F,Unmarried,0,1,$0 ,47
+913,NA,,Bach Degree,M,Unmarried,NA,3,$95 ,33
+638,Caucasian,NC,Some College,F,Unmarried,NA,2,$78 ,29
+1281,Caucasian,KY,Some College,M,Unmarried,0,4,$69 ,24
+248,Caucasian,MS,HS Diploma,F,Unmarried,0,2,$32 ,67
+274,African American,AL,Some College,F,Married,0,1,$27 ,75
+730,African American,NC,NA,NA,Unmarried,0,6,$32 ,26
+1471,NA,AL,Some College,F,Unmarried,2,2,$77 ,40
+355,NA,GA,Some College,F,Married,1,1,$10 ,42
+1338,NA,MS,HS Diploma,F,Unmarried,0,NA,$76 ,Unknown
+1127,Caucasian,GA,Less Than HS Diploma,M,Married,0,2,$4 ,72
+251,African American,AR,HS Diploma,F,Married,NA,1,$15 ,56
+1323,Caucasian,GA,HS Diploma,M,Married,1,4,$52 ,41
+1092,NA,NC,Some College,M,Married,0,2,$14 ,44
+1019,Caucasian,SC,HS Diploma,F,Married,0,2,$46 ,62
+1157,African American,GA,Less Than HS Diploma,F,Married,0,1,$32 ,67
+1231,African American,GA,HS Diploma,F,Married,1,NA,$45 ,41
+614,Caucasian,AL,Bach Degree,F,Unmarried,0,3,$27 ,73
+1383,Caucasian,MO,HS Diploma,F,Married,2,1,$143 ,50
+845,NA,MO,Some College,F,Unmarried,0,1,$42 ,43
+1105,Caucasian,MS,HS Diploma,M,Married,0,1,$99 ,46
+173,Caucasian,TN,Some College,M,Married,0,1,$50 ,54
+9,Caucasian,GA,Some College,NA,Unmarried,0,1,$40 ,23
+750,Caucasian,GA,HS Diploma,F,Unmarried,0,4,$38 ,69
+679,African American,NC,Some College,F,Married,0,1,$72 ,31
+1040,Caucasian,AR,Less Than HS Diploma,M,Married,0,2,$59 ,60
+1479,Caucasian,SC,Bach Degree,M,Unmarried,1,7,$91 ,33
+1118,Caucasian,NC,Bach Degree,M,Married,2,NA,$76 ,68
+1283,Caucasian,SC,Some College,M,Married,2,2,$27 ,21
+652,Caucasian,AL,Bach Degree,F,Married,0,NA,$99 ,60
+207,Caucasian,SC,Some College,F,Married,NA,2,$145 ,51
+1495,African American,GA,Some College,M,Unmarried,0,1,$29 ,36
+970,Caucasian,TN,Bach Degree,F,Married,0,4,$42 ,65
+994,Caucasian,NC,Some College,F,Married,NA,4,$69 ,55
+1452,Hispanic,GA,HS Diploma,F,Married,1,5,$42 ,37
+1413,NA,OK,HS Diploma,F,Married,0,1,$46 ,49
+117,African American,NC,Bach Degree,M,Unmarried,0,2,$31 ,49
+572,Caucasian,SC,Some College,M,Married,0,1,$58 ,63
+1211,Asian,MO,Grad Degree,F,Married,0,NA,$64 ,31
+75,African American,AL,Grad Degree,NA,Married,1,4,$61 ,27
+118,African American,NC,Less Than HS Diploma,F,Unmarried,NA,2,$27 ,75
+253,Caucasian,NC,HS Diploma,M,Unmarried,NA,4,$96 ,38
+1070,Caucasian,TN,HS Diploma,F,Married,2,4,$42 ,53
+150,African American,AR,HS Diploma,F,Married,0,2,$29 ,62
+623,Caucasian,OK,Some College,F,Married,NA,NA,$86 ,31
+352,Caucasian,NC,Some College,F,Married,5,NA,$174 ,53
+820,Caucasian,GA,HS Diploma,M,Married,0,NA,$55 ,42
+1466,Caucasian,AL,Grad Degree,F,Unmarried,0,7,$43 ,88
+738,Caucasian,NC,Some College,M,Unmarried,0,3,$75 ,36
+1130,Caucasian,AR,Less Than HS Diploma,M,Married,0,1,$19 ,42
+920,Caucasian,AR,Grad Degree,F,Unmarried,NA,4,$86 ,30
+102,Caucasian,SC,Some College,F,Married,1,2,$40 ,29
+244,NA,NC,HS Diploma,NA,Unmarried,3,4,$92 ,24
+1290,African American,TN,Some College,M,Unmarried,0,7,$78 ,54
+100,NA,GA,HS Diploma,NA,Married,0,2,$56 ,49
+497,Caucasian,TN,Some College,F,Unmarried,1,1,$0 ,37
+1496,NA,GA,Some College,M,Unmarried,NA,NA,$196 ,47
+993,African American,AL,HS Diploma,F,Married,0,2,$79 ,53
+1268,Caucasian,MS,HS Diploma,F,Unmarried,0,1,$34 ,73
+770,Caucasian,NC,Grad Degree,F,Married,0,2,$39 ,81
+240,Caucasian,TN,Some College,M,Married,1,3,$3 ,20
+843,Caucasian,GA,HS Diploma,F,Unmarried,1,4,$52 ,33
+1379,Caucasian,GA,Bach Degree,M,Unmarried,NA,4,$82 ,22
+95,African American,SC,Some College,M,Married,0,1,$4 ,28
+389,Caucasian,MS,HS Diploma,F,Married,0,3,$43 ,54
+1427,Caucasian,TN,HS Diploma,F,Unmarried,NA,NA,$78 ,28
+492,Caucasian,NC,Some College,F,Married,NA,2,$19 ,44
+868,African American,GA,HS Diploma,F,Married,0,2,$8 ,58
+143,Caucasian,GA,Some College,M,Married,NA,NA,$57 ,24
+1200,NA,MO,Bach Degree,F,Married,0,NA,$96 ,69
+1494,Caucasian,GA,Grad Degree,F,Unmarried,0,NA,$252 ,20
+278,Caucasian,MO,Some College,M,Married,0,NA,$143 ,20
+894,African American,NC,Some College,M,Married,0,1,$45 ,23
+835,Caucasian,TN,Grad Degree,F,Married,0,2,$94 ,58
+1367,Caucasian,GA,HS Diploma,F,Married,NA,2,$58 ,40
+397,NA,SC,Some College,M,Unmarried,NA,5,$151 ,27
+345,Caucasian,GA,Bach Degree,F,Married,1,2,$53 ,44
+639,Caucasian,TN,Some College,M,Married,1,5,$28 ,45
+1234,Caucasian,KY,Less Than HS Diploma,F,Unmarried,0,3,$38 ,81
+608,Caucasian,MS,HS Diploma,M,Married,0,2,$83 ,58
+1361,Caucasian,SC,Grad Degree,M,Married,0,2,$57 ,27
+549,Caucasian,GA,Some College,F,Married,1,3,$20 ,39
+63,African American,AL,Some College,M,Unmarried,0,NA,$4 ,51
+420,NA,NC,NA,M,Unmarried,0,8,$78 ,31
+422,Hispanic,MO,HS Diploma,M,Unmarried,0,4,$83 ,42
+802,Caucasian,OK,HS Diploma,M,Married,2,3,$7 ,88
+1451,NA,GA,Less Than HS Diploma,F,Unmarried,1,5,$45 ,27
+265,African American,NC,Grad Degree,M,Unmarried,0,1,$34 ,22
+1094,African American,GA,HS Diploma,M,Unmarried,0,2,$84 ,60
+393,Caucasian,AL,Some College,M,Unmarried,NA,NA,$50 ,56
+1075,Caucasian,AR,HS Diploma,F,Married,0,4,$74 ,59
+65,Caucasian,GA,HS Diploma,M,Unmarried,0,7,$9 ,54
+1357,Caucasian,KY,HS Diploma,F,Married,0,NA,$32 ,91
+176,NA,MO,Less Than HS Diploma,F,Unmarried,0,2,$19 ,73
+1025,African American,GA,Less Than HS Diploma,M,Unmarried,0,1,$62 ,32
+1425,Caucasian,OK,HS Diploma,F,Unmarried,0,1,$18 ,70
+94,African American,AL,Some College,M,Unmarried,0,2,$49 ,51
+320,African American,AR,Grad Degree,F,Married,3,1,$31 ,32
+467,Caucasian,MS,Less Than HS Diploma,M,Unmarried,0,2,$43 ,26
+1186,Caucasian,AL,Bach Degree,M,Married,0,4,$70 ,33
+398,Caucasian,MS,Some College,F,Unmarried,0,3,$38 ,68
+677,Caucasian,NC,HS Diploma,M,Married,0,2,$32 ,31
+665,Caucasian,OK,Less Than HS Diploma,NA,Unmarried,1,3,$13 ,28
+88,African American,NC,Some College,NA,Unmarried,0,1,$9 ,26
+817,Caucasian,MS,HS Diploma,M,Married,0,2,$46 ,33
+830,Caucasian,GA,NA,M,Married,0,2,$107 ,Unknown
+1018,Caucasian,GA,HS Diploma,F,Married,0,2,$66 ,64
+778,NA,TN,Some College,M,Married,NA,1,$107 ,25
+1116,Caucasian,MO,Grad Degree,M,Married,NA,2,$81 ,47
+990,African American,MO,HS Diploma,M,Unmarried,0,2,$46 ,62
+403,Caucasian,GA,Bach Degree,M,Married,0,3,$145 ,45
+350,NA,KY,Some College,M,Unmarried,0,5,$42 ,43
+736,African American,AR,Some College,M,Unmarried,0,1,$2 ,22
+185,African American,GA,Some College,NA,Unmarried,1,5,$33 ,49
+277,African American,NC,Some College,M,Unmarried,0,1,$62 ,23
+1051,Caucasian,TN,Some College,NA,Unmarried,0,7,$92 ,43
+471,NA,NC,Less Than HS Diploma,M,Unmarried,0,NA,$100 ,57
+705,Caucasian,MS,Some College,F,Married,0,2,$93 ,37
+968,Caucasian,AL,Bach Degree,M,Married,0,4,$273 ,Unknown
+137,African American,AL,HS Diploma,M,Married,0,5,$0 ,53
+79,Caucasian,SC,Grad Degree,F,Married,0,3,$9 ,77
+1245,NA,TN,Some College,M,Married,NA,5,$72 ,68
+1321,Hispanic,GA,HS Diploma,M,Married,0,3,$26 ,59
+694,Asian,MS,Bach Degree,F,Married,0,2,$64 ,25
+698,African American,KY,Some College,F,Unmarried,0,1,$12 ,24
+266,Caucasian,OK,Less Than HS Diploma,F,Married,NA,NA,$53 ,49
+194,NA,GA,Grad Degree,F,Married,1,NA,$124 ,Unknown
+1128,Caucasian,NC,Bach Degree,F,Married,3,2,$138 ,31
+1099,Caucasian,GA,Some College,M,Married,0,1,$70 ,33
+632,Caucasian,TN,HS Diploma,M,Married,NA,NA,$31 ,52
+950,Caucasian,MO,Less Than HS Diploma,F,Unmarried,0,3,$24 ,46
+216,Caucasian,MO,Bach Degree,M,Married,NA,2,$29 ,86
+888,Caucasian,NC,HS Diploma,F,Married,0,1,$75 ,40
+650,Hispanic,MO,Less Than HS Diploma,F,Unmarried,0,4,$27 ,36
+458,NA,NC,HS Diploma,M,Married,0,5,$91 ,58
+1300,Caucasian,KY,Some College,F,Married,0,3,$50 ,68
+775,Caucasian,KY,Less Than HS Diploma,F,Unmarried,1,3,$144 ,60
+125,Caucasian,NC,HS Diploma,M,Married,0,2,$48 ,51
+1002,Caucasian,SC,HS Diploma,F,Married,0,1,$4 ,48
+408,Caucasian,GA,HS Diploma,M,Married,0,1,$60 ,86
+570,Caucasian,NC,Grad Degree,NA,Married,NA,NA,$50 ,43
+197,Caucasian,SC,HS Diploma,M,Married,0,3,$10 ,72
+972,NA,NC,HS Diploma,NA,Unmarried,0,1,$4 ,42
+142,African American,AL,Some College,M,Married,0,1,$94 ,32
+360,Caucasian,AL,Some College,M,Married,NA,1,$83 ,42
+501,Caucasian,TN,HS Diploma,F,Married,1,1,$22 ,33
+1098,African American,GA,HS Diploma,M,Married,0,3,$22 ,62
+182,NA,MO,Less Than HS Diploma,F,Married,0,3,$31 ,83
+263,Caucasian,MO,HS Diploma,NA,Unmarried,0,6,$134 ,33
+630,Caucasian,SC,HS Diploma,F,Married,0,1,$20 ,68
+444,African American,GA,Some College,F,Married,0,3,$21 ,97
+1359,Caucasian,GA,Some College,F,Unmarried,0,1,$36 ,75
+314,Caucasian,KY,HS Diploma,M,Unmarried,NA,4,$68 ,32
+573,African American,NC,HS Diploma,F,Married,0,1,$134 ,46
+724,Hispanic,OK,Less Than HS Diploma,F,Married,1,4,$37 ,41
+1461,Caucasian,NC,Bach Degree,M,Unmarried,0,6,$37 ,57
+1497,African American,MO,Grad Degree,M,Married,0,1,$23 ,50
+1260,Caucasian,NC,Some College,M,Married,0,1,$62 ,24
+462,Caucasian,MO,HS Diploma,F,Unmarried,0,4,$40 ,61
+353,Caucasian,SC,HS Diploma,F,Unmarried,0,6,$53 ,84
+56,Caucasian,NC,Bach Degree,F,Unmarried,NA,5,$71 ,64
+552,Caucasian,NC,Some College,M,Married,0,2,$78 ,38
+1400,Caucasian,MO,Grad Degree,M,Married,0,2,$41 ,36
+1252,Caucasian,KY,Some College,M,Married,1,3,$75 ,42
+375,African American,NC,HS Diploma,NA,Unmarried,1,4,$22 ,43
+485,Caucasian,MO,HS Diploma,M,Unmarried,0,3,$36 ,29
+1041,African American,NC,Bach Degree,NA,Unmarried,0,1,$50 ,21
+885,Caucasian,KY,Bach Degree,M,Married,0,1,$76 ,35
+1457,African American,MO,Some College,F,Unmarried,2,3,$22 ,28
+399,Caucasian,GA,Less Than HS Diploma,M,Married,0,1,$85 ,Unknown
+1316,Caucasian,TN,Some College,F,Unmarried,0,4,$61 ,37
+312,Caucasian,MO,Bach Degree,F,Married,NA,NA,$80 ,63
+262,NA,NC,Some College,F,Married,NA,NA,$65 ,Unknown
+337,African American,GA,Less Than HS Diploma,M,Unmarried,0,6,$60 ,65
+1386,NA,GA,Some College,F,Married,NA,NA,$135 ,28
+433,Caucasian,AL,Some College,F,Married,0,NA,$31 ,87
+328,African American,AR,HS Diploma,F,Married,0,2,$31 ,68
+325,Caucasian,MS,Grad Degree,M,Married,0,1,$77 ,38
+571,Caucasian,GA,HS Diploma,F,Married,2,2,$41 ,25
+872,Caucasian,NC,Grad Degree,M,Unmarried,0,1,$37 ,56
+1038,Caucasian,GA,Some College,F,Unmarried,0,NA,$64 ,55
+11,Caucasian,MS,HS Diploma,M,Married,0,1,$31 ,79
+795,Caucasian,GA,Some College,M,Married,0,NA,$103 ,59
+310,African American,GA,HS Diploma,F,Unmarried,0,1,$15 ,22
+909,Caucasian,KY,Less Than HS Diploma,M,Married,0,NA,$88 ,Unknown
+1103,African American,AR,Bach Degree,F,Married,0,2,$11 ,74
+1134,African American,GA,Less Than HS Diploma,M,Unmarried,0,2,$22 ,27
+1115,Caucasian,OK,Bach Degree,M,Married,0,NA,$111 ,39
+1303,African American,GA,Some College,M,Unmarried,0,2,$64 ,33
+211,Asian,MO,Some College,M,Unmarried,0,NA,$25 ,32
+553,Caucasian,OK,Some College,F,Unmarried,0,1,$21 ,58
+773,Caucasian,NC,HS Diploma,F,Married,0,3,$52 ,72
+1395,Caucasian,MS,Bach Degree,M,Married,1,7,$21 ,40
+1155,Caucasian,GA,Some College,F,Married,0,4,$65 ,30
+636,Caucasian,MO,Grad Degree,M,Married,0,2,$136 ,60
+245,African American,SC,Some College,F,Unmarried,0,1,$63 ,20
+295,Caucasian,AL,HS Diploma,F,Unmarried,NA,4,$11 ,61
+912,Caucasian,MS,Bach Degree,F,Unmarried,2,3,$89 ,27
+247,Caucasian,MO,HS Diploma,M,Married,0,3,$96 ,Unknown
+78,Caucasian,NC,Some College,M,Unmarried,1,6,$142 ,44
+854,African American,NC,Some College,F,Unmarried,0,1,$17 ,28
+227,Hispanic,MO,HS Diploma,F,Married,0,1,$112 ,Unknown
+313,Caucasian,NC,HS Diploma,F,Unmarried,0,4,$61 ,75
+181,Caucasian,GA,Some College,F,Unmarried,0,3,$25 ,83
+887,Hispanic,NC,Less Than HS Diploma,NA,Unmarried,0,1,$35 ,23
+606,Caucasian,NC,Some College,M,Unmarried,NA,NA,$94 ,24
+67,Caucasian,OK,HS Diploma,M,Married,3,5,$47 ,32
+1483,Caucasian,AL,Some College,F,Unmarried,NA,1,$6 ,31
+1293,Hispanic,MO,Some College,NA,Unmarried,0,1,$64 ,56
+1037,African American,AL,Less Than HS Diploma,M,Unmarried,0,1,$29 ,74
+1265,Caucasian,SC,Less Than HS Diploma,M,Unmarried,0,1,$46 ,70
+1044,Caucasian,MS,Less Than HS Diploma,M,Unmarried,0,3,$5 ,47
+305,Caucasian,TN,Less Than HS Diploma,M,Unmarried,0,1,$47 ,56
+811,Caucasian,NC,Bach Degree,F,Unmarried,NA,1,$25 ,84
+771,NA,MO,Less Than HS Diploma,M,Married,NA,NA,$61 ,39
+1432,Caucasian,SC,NA,F,Married,NA,NA,$97 ,49
+898,African American,NC,Some College,F,Married,1,2,$65 ,38
+536,Caucasian,MO,HS Diploma,F,Married,0,2,$70 ,47
+1209,NA,GA,Some College,F,Unmarried,NA,5,$80 ,23
+40,African American,SC,Some College,F,Married,0,1,$26 ,22
+790,Caucasian,,Less Than HS Diploma,M,Married,0,1,$97 ,30
+49,Caucasian,KY,Bach Degree,M,Married,0,3,$55 ,51
+710,African American,NC,Less Than HS Diploma,M,Married,0,1,$48 ,46
+1201,NA,AL,HS Diploma,F,Married,NA,NA,$73 ,Unknown
+442,Caucasian,OK,HS Diploma,F,Unmarried,0,1,$3 ,76
+925,Caucasian,OK,Some College,F,Married,0,2,$48 ,54
+810,NA,GA,Some College,F,Married,NA,1,$81 ,75
+1351,African American,NC,HS Diploma,F,Married,0,3,$119 ,38
+768,Caucasian,AL,HS Diploma,M,Married,0,2,$56 ,78
+1480,Caucasian,MO,HS Diploma,M,Married,0,NA,$62 ,32
+260,Caucasian,OK,Some College,M,Unmarried,3,4,$83 ,28
+589,Caucasian,KY,Less Than HS Diploma,F,Married,0,2,$71 ,71
+271,Caucasian,GA,HS Diploma,F,Married,0,1,$47 ,30
+1188,Caucasian,OK,Some College,F,Unmarried,0,4,$30 ,44
+1069,Hispanic,MO,HS Diploma,F,Unmarried,0,8,$26 ,20
+900,African American,MO,HS Diploma,M,Unmarried,0,1,$21 ,62
+1216,Caucasian,MS,Some College,M,Unmarried,NA,NA,$97 ,58
+1034,Caucasian,GA,Less Than HS Diploma,F,Unmarried,0,1,$25 ,79
+146,Caucasian,TN,Less Than HS Diploma,F,Unmarried,0,1,$22 ,99
+1490,Caucasian,NC,Some College,F,Married,NA,1,$54 ,49
+1112,African American,GA,Bach Degree,M,Unmarried,1,NA,$37 ,70
+1161,African American,MO,Some College,M,Unmarried,0,1,$47 ,60
+815,African American,NC,Grad Degree,NA,Unmarried,0,4,$9 ,37
+841,Caucasian,SC,HS Diploma,F,Married,0,2,$9 ,76
+1047,Caucasian,NC,Less Than HS Diploma,NA,Married,0,1,$61 ,28
+566,Caucasian,MO,Bach Degree,F,Married,1,7,$83 ,Unknown
+220,NA,TN,Some College,M,Married,1,3,$69 ,57
+766,African American,NC,HS Diploma,F,Unmarried,0,1,$6 ,73
+1126,Caucasian,GA,Some College,F,Unmarried,0,1,$15 ,38
+241,African American,NC,HS Diploma,F,Unmarried,NA,1,$53 ,96
+69,NA,SC,Grad Degree,M,Married,NA,NA,$99 ,36
+1213,Caucasian,GA,HS Diploma,M,Unmarried,2,6,$14 ,60
+1415,Caucasian,NC,HS Diploma,F,Married,1,5,$80 ,37
+1458,Caucasian,GA,Bach Degree,F,Unmarried,2,6,$65 ,22
+448,Caucasian,MS,HS Diploma,F,Married,0,3,$63 ,40
+291,Caucasian,NC,Grad Degree,F,Married,NA,3,$118 ,69
+1088,Caucasian,NC,HS Diploma,F,Married,NA,2,$59 ,45
+945,Caucasian,MS,Some College,M,Unmarried,0,1,$15 ,26
+948,Caucasian,AL,Some College,M,Married,0,1,$95 ,59
+1284,Caucasian,OK,Grad Degree,F,Unmarried,1,1,$9 ,39
+902,Caucasian,GA,Less Than HS Diploma,M,Unmarried,0,2,$0 ,23
+170,Hispanic,AL,Less Than HS Diploma,F,Married,0,1,$29 ,55
+372,Caucasian,MS,Some College,M,Unmarried,0,3,$1 ,20
+1172,Caucasian,TN,HS Diploma,F,Unmarried,0,1,$8 ,24
+959,NA,MS,Bach Degree,F,Unmarried,1,1,$63 ,21
+1421,NA,SC,Bach Degree,F,Unmarried,NA,NA,$69 ,22
+446,Caucasian,MO,Less Than HS Diploma,NA,Unmarried,0,2,$27 ,40
+1308,Caucasian,GA,Less Than HS Diploma,F,Married,0,4,$73 ,38
+89,Caucasian,GA,Bach Degree,M,Unmarried,NA,NA,$91 ,40
+692,Caucasian,NC,HS Diploma,F,Unmarried,0,5,$34 ,37
+192,NA,GA,HS Diploma,F,Married,NA,3,$284 ,46
+924,Caucasian,OK,Less Than HS Diploma,F,Married,0,NA,$126 ,39
+882,NA,AL,Bach Degree,M,Married,NA,3,$199 ,69
+32,Caucasian,NC,HS Diploma,F,Married,3,3,$97 ,78
+498,NA,NC,HS Diploma,M,Married,2,NA,$91 ,44
+857,Caucasian,GA,Some College,F,Married,0,NA,$97 ,65
+1073,African American,SC,Bach Degree,F,Married,0,5,$28 ,88
+488,Caucasian,NC,Some College,M,Married,0,1,$81 ,31
+1261,Caucasian,AL,HS Diploma,F,Married,0,2,$32 ,23
+741,Hispanic,KY,HS Diploma,NA,Married,0,1,$26 ,38
+1375,NA,AL,Some College,F,Unmarried,0,1,$98 ,52
+1120,Hispanic,MO,Bach Degree,M,Married,0,2,$31 ,32
+428,Caucasian,NC,HS Diploma,F,Married,0,1,$25 ,60
+804,Caucasian,AL,NA,M,Married,NA,2,$83 ,52
+1373,Caucasian,NC,HS Diploma,F,Unmarried,0,1,$78 ,32
+1093,Caucasian,SC,NA,F,Married,0,2,$23 ,68
+1110,NA,,HS Diploma,M,Unmarried,0,6,$87 ,83
+687,NA,AR,Some College,M,Unmarried,0,NA,$63 ,Unknown
+628,Caucasian,MO,Less Than HS Diploma,F,Unmarried,0,2,$38 ,59
+416,Caucasian,GA,Some College,M,Unmarried,2,5,$20 ,38
+171,NA,KY,HS Diploma,F,Married,NA,2,$8 ,82
+451,NA,SC,Grad Degree,M,Married,NA,NA,$250 ,76
+905,Caucasian,MS,Some College,F,Married,NA,NA,$214 ,43
+1102,Caucasian,SC,Bach Degree,F,Married,0,4,$84 ,89
+579,Caucasian,OK,Bach Degree,M,Unmarried,NA,1,$64 ,40
+507,Caucasian,TN,HS Diploma,M,Unmarried,0,1,$39 ,52
+359,Caucasian,AL,Some College,F,Married,0,1,$79 ,49
+1072,Caucasian,GA,Bach Degree,M,Married,NA,5,$111 ,63
+1453,NA,GA,Some College,F,Married,NA,1,$69 ,42
+475,Caucasian,MS,Grad Degree,NA,Unmarried,0,1,$3 ,25
+1436,Caucasian,GA,Some College,M,Married,1,2,$122 ,56
+842,Caucasian,GA,Some College,F,Married,3,1,$27 ,34
+202,Caucasian,GA,Less Than HS Diploma,F,Unmarried,0,2,$11 ,22
+1376,Caucasian,GA,Bach Degree,M,Unmarried,0,6,$22 ,43
+819,African American,AR,HS Diploma,F,Unmarried,0,1,$32 ,68
+1210,NA,KY,HS Diploma,M,Married,5,2,$32 ,30
+601,Caucasian,GA,Some College,F,Married,0,3,$70 ,24
+915,Hispanic,GA,Grad Degree,M,Married,0,2,$48 ,35
+1166,Caucasian,NC,Bach Degree,M,Unmarried,NA,7,$131 ,55
+50,African American,AR,Some College,M,Unmarried,0,2,$34 ,27
+58,Caucasian,SC,HS Diploma,M,Unmarried,0,4,$25 ,47
+1350,Caucasian,AR,HS Diploma,F,Unmarried,0,3,$34 ,87
+618,Caucasian,AR,Some College,M,Married,2,6,$122 ,52
+1225,Asian,TN,Some College,M,NA,0,8,$92 ,60
+704,Caucasian,AL,Less Than HS Diploma,F,Unmarried,NA,4,$85 ,23
+662,Hispanic,NC,Less Than HS Diploma,M,Married,0,1,$33 ,21
+1364,African American,OK,HS Diploma,F,Unmarried,0,1,$82 ,36
+213,Caucasian,SC,Less Than HS Diploma,F,Married,1,2,$8 ,28
+225,Caucasian,MS,Grad Degree,M,Married,0,1,$51 ,28
+219,NA,GA,NA,M,Married,1,6,$238 ,69
+10,Caucasian,MO,HS Diploma,F,Married,2,1,$58 ,36
+624,Caucasian,AR,HS Diploma,M,Married,NA,1,$68 ,22
+1274,African American,NC,Some College,M,Unmarried,0,1,$13 ,57
+167,NA,OK,HS Diploma,F,Unmarried,0,NA,$95 ,72
+1328,Caucasian,NC,Some College,F,Unmarried,1,5,$56 ,31
+758,Caucasian,GA,HS Diploma,F,Married,0,3,$94 ,69
+935,Caucasian,NC,Bach Degree,M,Unmarried,4,4,$66 ,31
+585,African American,KY,Less Than HS Diploma,M,Unmarried,0,1,$58 ,58
+406,Caucasian,OK,Some College,M,Married,0,1,$43 ,25
+1223,Caucasian,NC,HS Diploma,F,Unmarried,1,5,$16 ,43
+1448,Caucasian,GA,NA,M,Married,0,7,$85 ,44
+1238,Caucasian,GA,Grad Degree,M,Unmarried,0,1,$72 ,99
+8,Caucasian,KY,Some College,F,Married,0,2,$54 ,61
+1320,Caucasian,GA,Some College,F,Married,NA,2,$51 ,41
+423,Caucasian,NC,Bach Degree,F,Married,0,3,$104 ,31
+109,African American,OK,Grad Degree,M,Unmarried,0,5,$256 ,29
+153,Caucasian,OK,Grad Degree,F,Unmarried,0,1,$59 ,97
+412,Hispanic,KY,Less Than HS Diploma,M,Married,0,3,$29 ,63
+893,NA,NC,HS Diploma,M,Married,NA,NA,$204 ,41
+1394,Caucasian,TN,NA,M,Married,4,NA,$83 ,71
+96,Caucasian,AL,Some College,M,Unmarried,0,5,$36 ,26
+1431,Caucasian,,Bach Degree,M,Married,NA,NA,$58 ,61
+1117,African American,NC,Some College,F,Married,0,1,$58 ,25
+394,African American,GA,NA,F,Married,1,2,$55 ,30
+299,Caucasian,OK,Some College,M,Unmarried,NA,NA,$99 ,63
+1140,African American,AL,Less Than HS Diploma,M,Married,0,2,$32 ,80
+378,Caucasian,AL,HS Diploma,F,Married,0,1,$97 ,69
+1406,Caucasian,GA,Bach Degree,F,Unmarried,0,5,$37 ,62
+1059,African American,,Bach Degree,NA,Married,1,NA,$115 ,46
+1420,Caucasian,GA,HS Diploma,F,Married,0,1,$65 ,58
+658,Caucasian,MS,NA,M,Married,0,NA,$132 ,63
+1344,Caucasian,SC,Bach Degree,M,Unmarried,1,7,$35 ,62
+728,Caucasian,GA,Grad Degree,F,Unmarried,0,NA,$68 ,58
+47,Caucasian,GA,HS Diploma,M,Married,1,1,$86 ,29
+886,Hispanic,MS,Less Than HS Diploma,F,Married,0,3,$23 ,81
+73,Caucasian,TN,HS Diploma,F,Unmarried,NA,4,$148 ,51
+255,African American,GA,HS Diploma,F,Married,1,1,$31 ,57
+1477,NA,GA,NA,F,Married,NA,2,$139 ,Unknown
+1255,Caucasian,SC,Some College,M,Married,1,3,$30 ,73
+1330,NA,MO,Bach Degree,M,Unmarried,0,1,$87 ,49
+166,Asian,NC,Some College,F,Married,NA,NA,$61 ,75
+793,African American,MO,Less Than HS Diploma,NA,Unmarried,0,3,$31 ,27
+654,Caucasian,SC,Some College,F,Married,NA,4,$86 ,Unknown
+1340,African American,NC,HS Diploma,F,Married,0,3,$12 ,62
+1311,NA,AL,HS Diploma,F,Married,2,2,$94 ,41
+1380,African American,MO,HS Diploma,M,Unmarried,2,5,$68 ,72
+939,African American,NC,Some College,M,Unmarried,NA,3,$52 ,66
+550,African American,MS,Some College,M,Married,0,3,$16 ,37
+1156,Caucasian,TN,Some College,M,Unmarried,NA,1,$72 ,44
+559,African American,NC,Less Than HS Diploma,F,Married,0,4,$36 ,40
+1491,NA,NC,HS Diploma,F,Unmarried,NA,3,$73 ,66
+725,Caucasian,KY,Grad Degree,F,Unmarried,1,1,$22 ,51
+726,African American,SC,HS Diploma,F,Married,0,4,$44 ,52
+929,NA,MS,NA,M,Unmarried,0,4,$57 ,25
+162,Hispanic,GA,Less Than HS Diploma,M,Married,0,1,$71 ,30
+59,Caucasian,AL,HS Diploma,F,Married,0,1,$1 ,60
+374,NA,MS,HS Diploma,F,Unmarried,3,4,$75 ,33
+633,Caucasian,TN,Bach Degree,M,Unmarried,0,1,$18 ,95
+1287,Caucasian,TN,HS Diploma,M,Unmarried,NA,4,$69 ,32
+891,Caucasian,MS,HS Diploma,F,Married,0,1,$32 ,22
+691,Asian,SC,HS Diploma,M,Married,0,1,$69 ,45
+1464,Caucasian,SC,Bach Degree,F,Unmarried,3,1,$25 ,33
+807,Caucasian,SC,Some College,M,Married,0,1,$49 ,23
+992,NA,SC,Bach Degree,M,Unmarried,NA,7,$106 ,34
+833,Caucasian,KY,HS Diploma,M,Unmarried,0,3,$52 ,62
+21,Caucasian,AR,HS Diploma,M,Married,1,2,$26 ,33
+1422,Caucasian,MO,Grad Degree,F,Married,NA,NA,$242 ,71
+480,Caucasian,MO,HS Diploma,F,Unmarried,0,1,$46 ,72
+457,African American,MO,HS Diploma,F,Married,4,4,$82 ,34
+625,Caucasian,OK,HS Diploma,F,Married,0,5,$48 ,46
+525,Caucasian,MO,Grad Degree,M,Married,0,2,$81 ,76
+1199,Caucasian,MO,HS Diploma,F,Married,NA,3,$92 ,37
+955,NA,AL,Bach Degree,M,Unmarried,0,4,$87 ,20
+129,Caucasian,SC,Bach Degree,F,Unmarried,NA,NA,$52 ,53
+873,African American,NC,HS Diploma,F,Married,1,3,$53 ,39
+952,Caucasian,MO,Some College,F,Unmarried,1,5,$67 ,26
+235,Caucasian,MO,Less Than HS Diploma,M,Unmarried,0,1,$4 ,28
+1033,African American,AL,HS Diploma,M,Unmarried,4,4,$50 ,55
+937,NA,SC,HS Diploma,M,Married,3,5,$8 ,38
+1056,Caucasian,OK,HS Diploma,M,Married,0,3,$87 ,67
+917,Caucasian,KY,Bach Degree,F,Unmarried,0,1,$4 ,81
+560,Caucasian,NC,Some College,F,Unmarried,0,NA,$62 ,34
+99,Caucasian,MO,Some College,M,Married,NA,2,$128 ,62
+454,NA,TN,NA,M,Married,NA,NA,$279 ,31
+1145,Caucasian,GA,Grad Degree,M,Unmarried,0,1,$49 ,65
+1203,Caucasian,GA,Less Than HS Diploma,M,Unmarried,1,4,$67 ,31
+1489,Caucasian,SC,HS Diploma,F,Married,0,4,$70 ,79
+1179,Caucasian,TN,HS Diploma,F,Married,0,2,$61 ,60
+781,African American,GA,HS Diploma,F,Unmarried,0,NA,$29 ,61
+201,African American,GA,Some College,F,Unmarried,0,2,$14 ,22
+279,Hispanic,GA,HS Diploma,M,Married,NA,2,$122 ,52
+763,NA,NC,Bach Degree,F,Married,0,1,$97 ,37
+90,African American,NC,Some College,F,Unmarried,1,1,$62 ,38
+436,Caucasian,NC,HS Diploma,F,Unmarried,0,1,$49 ,25
+1215,NA,TN,HS Diploma,F,Married,0,NA,$114 ,59
+588,NA,AL,Bach Degree,F,Married,0,3,$91 ,81
+204,Caucasian,MO,Bach Degree,F,Unmarried,NA,5,$50 ,34
+626,African American,NC,HS Diploma,M,Unmarried,0,5,$25 ,45
+1132,Hispanic,MS,HS Diploma,F,Married,NA,6,$72 ,40
+1219,Caucasian,GA,NA,F,Married,1,NA,$68 ,49
+39,NA,TN,Grad Degree,M,Married,NA,2,$225 ,56
+1217,African American,SC,Some College,F,Unmarried,1,1,$26 ,31
+663,Caucasian,AL,HS Diploma,F,Unmarried,0,7,$94 ,22
+782,African American,GA,HS Diploma,F,Unmarried,0,1,$17 ,65
+1202,African American,GA,Some College,M,Married,0,NA,$145 ,51
+119,Caucasian,MS,Some College,F,Unmarried,0,1,$53 ,21
+159,NA,MO,HS Diploma,F,Unmarried,0,3,$53 ,31
+20,African American,NC,Less Than HS Diploma,F,Unmarried,0,7,$6 ,22
+746,NA,KY,Bach Degree,M,Married,0,2,$82 ,55
+756,Caucasian,NC,Grad Degree,M,Married,0,3,$67 ,81
+304,NA,TN,HS Diploma,M,Married,NA,3,$76 ,47
+874,Caucasian,TN,Grad Degree,F,Unmarried,0,3,$93 ,78
+996,NA,TN,Some College,M,Married,0,NA,$76 ,22
+184,Caucasian,MO,HS Diploma,F,Married,0,2,$150 ,42
+518,Caucasian,NC,Grad Degree,M,Married,2,4,$84 ,40
+1329,Caucasian,TN,HS Diploma,F,Married,0,NA,$106 ,60
+1465,Caucasian,SC,Some College,M,Married,0,1,$118 ,78
+116,NA,AL,Less Than HS Diploma,M,Married,0,2,$7 ,52
+1077,African American,MO,Some College,M,Unmarried,NA,1,$130 ,57
+51,Caucasian,AR,Some College,F,Unmarried,1,5,$4 ,20
+896,Caucasian,SC,Some College,M,Married,0,3,$68 ,42
+831,Caucasian,TN,Grad Degree,M,Unmarried,0,NA,$136 ,49
+1447,Caucasian,GA,Bach Degree,F,Unmarried,0,2,$66 ,54
+226,Caucasian,SC,Bach Degree,NA,Married,0,1,$3 ,57
+329,Caucasian,TN,HS Diploma,NA,Unmarried,0,5,$2 ,37
+586,Caucasian,MO,Some College,F,Married,0,NA,$116 ,69
+1333,Caucasian,MO,HS Diploma,M,Unmarried,1,7,$16 ,21
+431,Caucasian,TN,NA,F,Married,NA,3,$53 ,21
+767,Caucasian,MO,Some College,F,Unmarried,NA,6,$79 ,39
+1459,Caucasian,NC,Less Than HS Diploma,M,Unmarried,NA,2,$48 ,68
+1414,NA,OK,Bach Degree,M,Married,2,NA,$94 ,41
+890,Caucasian,NC,Some College,M,Married,0,1,$29 ,34
+28,African American,SC,Some College,F,Unmarried,1,1,$5 ,24
+973,Caucasian,OK,HS Diploma,F,Unmarried,0,1,$45 ,28
+789,Caucasian,OK,HS Diploma,F,Married,0,4,$79 ,67
+529,Caucasian,MO,Some College,F,Unmarried,5,3,$69 ,25
+1332,NA,AL,Bach Degree,F,Unmarried,NA,6,$55 ,45
+752,Caucasian,AL,HS Diploma,F,Married,0,3,$43 ,93
+1500,Caucasian,TN,HS Diploma,F,Unmarried,0,1,$43 ,36
+1310,African American,AR,Less Than HS Diploma,M,Unmarried,0,1,$16 ,45
+156,African American,MS,HS Diploma,F,Married,0,3,$17 ,71
+708,Caucasian,AR,Some College,M,Married,0,2,$68 ,33
+876,NA,SC,Some College,M,Married,0,2,$32 ,39
+1001,Caucasian,AR,Some College,M,Married,0,2,$134 ,Unknown
+381,Caucasian,KY,HS Diploma,F,Married,1,2,$2 ,50
+531,Caucasian,MO,HS Diploma,M,Unmarried,0,1,$41 ,78
+362,Caucasian,SC,HS Diploma,F,Married,0,2,$47 ,59
+860,Caucasian,TN,Less Than HS Diploma,F,Married,NA,5,$71 ,34
+149,Caucasian,NC,HS Diploma,F,Married,0,3,$40 ,61
+699,African American,NC,Grad Degree,F,Married,1,2,$15 ,38
+206,Hispanic,NC,HS Diploma,F,Unmarried,0,1,$59 ,51
+354,NA,NC,HS Diploma,M,Married,0,7,$56 ,43
+321,Caucasian,MO,Some College,M,Married,0,2,$8 ,90
+380,African American,MS,Grad Degree,F,Unmarried,0,1,$14 ,59
+332,NA,SC,Some College,F,Unmarried,0,1,$236 ,39
+884,Caucasian,MS,Some College,F,Married,0,1,$4 ,39
+548,Caucasian,TN,Bach Degree,F,Married,0,3,$76 ,52
+66,Asian,NC,Bach Degree,F,Married,0,NA,$148 ,50
+523,Caucasian,MO,Bach Degree,M,Unmarried,0,2,$57 ,72
+837,Caucasian,AR,Some College,F,Unmarried,1,6,$2 ,76
+71,Caucasian,GA,Bach Degree,M,Married,0,NA,$143 ,47
+1106,Caucasian,AL,Bach Degree,F,Married,0,2,$72 ,84
+605,Caucasian,TN,Grad Degree,M,NA,0,3,$58 ,76
+1365,African American,AR,Bach Degree,F,Married,1,2,$50 ,36
+584,NA,GA,Grad Degree,F,Married,0,1,$136 ,36
+1045,African American,TN,Some College,M,Unmarried,0,1,$57 ,20
+294,NA,KY,Bach Degree,M,Married,NA,1,$55 ,63
+714,African American,NC,HS Diploma,M,Married,1,NA,$227 ,Unknown
+533,Caucasian,MO,HS Diploma,F,Unmarried,0,5,$58 ,33
+301,African American,MS,Some College,F,Unmarried,2,6,$59 ,67
+1348,Caucasian,OK,Some College,NA,Married,0,4,$31 ,55
+1221,African American,NC,HS Diploma,M,Married,0,2,$22 ,65
+878,African American,NC,HS Diploma,NA,Married,0,1,$33 ,36
+723,NA,GA,NA,M,Married,0,1,$73 ,47
+844,Caucasian,SC,Less Than HS Diploma,M,Married,0,NA,$9 ,85
+70,African American,MO,Some College,F,Unmarried,0,2,$40 ,51
+1343,NA,AR,Some College,F,Married,1,6,$82 ,55
+402,Caucasian,SC,Bach Degree,F,Married,1,2,$79 ,53
+1301,Caucasian,MS,HS Diploma,F,Unmarried,0,3,$44 ,65
+1137,NA,NC,Less Than HS Diploma,F,Unmarried,0,1,$123 ,31
+1078,African American,NC,Bach Degree,M,Married,0,2,$74 ,29
+683,Caucasian,MO,Less Than HS Diploma,F,Married,0,2,$74 ,38
+1444,NA,NC,Some College,NA,Unmarried,0,1,$70 ,29
+1005,NA,NC,Some College,F,Unmarried,0,2,$10 ,24
+987,African American,AL,Some College,M,Married,1,4,$96 ,66
+490,Caucasian,AR,Grad Degree,M,Unmarried,0,7,$70 ,36
+1163,Caucasian,OK,Bach Degree,M,Married,3,2,$101 ,41
+391,African American,GA,Less Than HS Diploma,F,Married,2,2,$2 ,35
+1270,NA,OK,Bach Degree,M,Unmarried,0,NA,$109 ,84
+1046,African American,AR,Some College,M,Unmarried,0,4,$62 ,59
+1292,Caucasian,AR,Some College,M,Married,NA,2,$96 ,23
+769,Caucasian,GA,HS Diploma,F,Unmarried,0,4,$8 ,29
+1347,Caucasian,NC,Some College,M,Unmarried,0,1,$46 ,24
+261,NA,GA,NA,F,Married,0,2,$142 ,22
+1147,Caucasian,KY,Some College,M,Married,NA,2,$89 ,28
+1183,Caucasian,SC,Some College,M,Married,1,3,$106 ,53
+897,Caucasian,SC,HS Diploma,M,Unmarried,2,4,$51 ,34
+105,Caucasian,MO,Less Than HS Diploma,F,Unmarried,NA,3,$29 ,60
+1368,Caucasian,KY,Some College,M,Married,0,1,$55 ,21
+306,Caucasian,GA,Some College,F,Married,0,NA,$114 ,47
+792,Caucasian,TN,HS Diploma,M,Unmarried,1,NA,$95 ,67
+822,African American,MS,Less Than HS Diploma,M,Unmarried,0,NA,$74 ,45
+435,Caucasian,MO,Less Than HS Diploma,M,Married,0,1,$31 ,36
+1342,Asian,TN,Some College,M,Married,0,1,$98 ,35
+799,African American,AL,Grad Degree,F,Married,3,1,$30 ,39
+252,Caucasian,OK,Bach Degree,F,Married,2,2,$38 ,42
+259,Caucasian,KY,Bach Degree,M,Married,0,2,$47 ,74
+500,Hispanic,NC,Less Than HS Diploma,M,Unmarried,0,3,$13 ,47
+788,Caucasian,GA,HS Diploma,M,Unmarried,0,1,$72 ,29
+104,Hispanic,GA,Grad Degree,F,Unmarried,1,7,$24 ,25
+358,Caucasian,MO,Some College,M,Married,0,3,$34 ,47
+346,African American,AL,HS Diploma,F,Unmarried,0,3,$33 ,83
+944,NA,TN,Grad Degree,F,Unmarried,1,4,$129 ,37
+1456,Caucasian,GA,Bach Degree,F,Married,NA,2,$54 ,68
+447,NA,GA,Bach Degree,M,Married,1,4,$97 ,53
+486,Caucasian,MO,HS Diploma,M,Married,1,3,$48 ,43
+1017,Caucasian,TN,Bach Degree,M,Married,0,2,$53 ,49
+1486,African American,NC,Some College,M,Married,0,2,$55 ,38
+1068,Caucasian,OK,Some College,M,Married,0,3,$49 ,29
+1191,Caucasian,AL,HS Diploma,M,Married,NA,5,$52 ,53
+413,African American,TN,HS Diploma,M,Married,0,3,$11 ,68
+395,Caucasian,KY,Some College,M,Married,0,2,$71 ,58
+113,Caucasian,OK,HS Diploma,F,Married,2,2,$40 ,67
+1433,Caucasian,AL,HS Diploma,M,Married,1,5,$53 ,57
+217,NA,MS,Less Than HS Diploma,M,Married,NA,NA,$138 ,24
+1352,Asian,GA,Some College,M,Unmarried,0,1,$54 ,25
+938,African American,TN,Some College,M,Unmarried,0,3,$55 ,46
+846,Caucasian,AL,Less Than HS Diploma,M,Unmarried,1,4,$69 ,23
+794,Caucasian,TN,Bach Degree,F,Unmarried,3,3,$91 ,48
+1190,African American,NC,Some College,F,Unmarried,0,1,$50 ,40
+669,Caucasian,GA,Some College,F,Unmarried,0,1,$27 ,40
+275,Caucasian,SC,Grad Degree,M,Married,0,1,$58 ,69
+829,African American,SC,HS Diploma,F,Unmarried,0,2,$9 ,28
+821,Caucasian,OK,HS Diploma,F,Married,1,4,$32 ,68
+317,Caucasian,OK,Some College,NA,Unmarried,0,2,$74 ,37
+384,NA,KY,HS Diploma,M,Married,0,4,$82 ,59
+315,Caucasian,TN,HS Diploma,M,Unmarried,0,5,$58 ,25
+941,Caucasian,TN,Some College,F,Married,NA,3,$83 ,56
+1114,Caucasian,MO,Some College,M,Married,0,1,$18 ,75
+1129,NA,KY,HS Diploma,F,Unmarried,0,4,$59 ,41
+666,Caucasian,KY,Some College,M,Unmarried,4,4,$31 ,27
+688,NA,GA,Bach Degree,F,Unmarried,0,NA,$166 ,36
+734,Hispanic,MO,Less Than HS Diploma,M,Unmarried,0,NA,$97 ,29
+1208,Caucasian,AL,Less Than HS Diploma,F,Married,0,1,$41 ,59
+1039,NA,NC,Grad Degree,F,Married,NA,1,$70 ,33
+547,Hispanic,OK,HS Diploma,M,Unmarried,0,1,$0 ,55
+1309,Caucasian,KY,Some College,F,Unmarried,0,1,$2 ,47
+215,Caucasian,OK,HS Diploma,F,Unmarried,0,2,$1 ,39
+368,Caucasian,NC,Some College,M,Unmarried,0,4,$86 ,20
+604,NA,NC,Bach Degree,F,Married,NA,2,$77 ,48
+962,Caucasian,MO,HS Diploma,M,Unmarried,2,6,$63 ,22
+1171,Caucasian,AL,HS Diploma,M,Married,NA,5,$99 ,56
+1174,Caucasian,KY,Bach Degree,F,Married,NA,NA,$119 ,44
+439,Caucasian,SC,Some College,M,Married,1,NA,$91 ,57
+1087,Caucasian,TN,HS Diploma,F,Married,NA,2,$84 ,58
+112,Caucasian,GA,HS Diploma,F,Married,1,7,$76 ,63
+862,Caucasian,SC,HS Diploma,F,Married,0,4,$54 ,85
+61,Caucasian,MO,Less Than HS Diploma,M,Unmarried,0,1,$6 ,85
+919,NA,AL,Less Than HS Diploma,M,Unmarried,0,1,$32 ,35
+759,NA,TN,Grad Degree,F,Married,0,NA,$119 ,31
+942,Caucasian,MO,HS Diploma,F,Unmarried,0,1,$13 ,65
+1122,African American,NC,Some College,F,Married,0,1,$31 ,50
+257,Caucasian,KY,Some College,M,Married,0,3,$80 ,50
+86,Caucasian,MO,HS Diploma,M,Unmarried,0,6,$48 ,28
+175,NA,NC,Less Than HS Diploma,M,Unmarried,0,1,$31 ,42
+1142,Caucasian,MS,HS Diploma,F,Married,2,2,$98 ,45
+3,Caucasian,OK,HS Diploma,M,Unmarried,0,4,$52 ,69
+1419,Caucasian,OK,Grad Degree,M,Unmarried,0,NA,$90 ,20
+338,Caucasian,AL,HS Diploma,F,Married,1,NA,$63 ,69
+1212,African American,SC,Some College,M,Unmarried,0,3,$67 ,30
+1276,Caucasian,AL,Less Than HS Diploma,F,Married,4,4,$69 ,41
+1014,NA,SC,Bach Degree,M,Unmarried,0,6,$84 ,32
+1299,African American,AL,HS Diploma,F,Unmarried,0,1,$17 ,63
+1021,Caucasian,OK,Bach Degree,M,Married,0,1,$31 ,73
+1407,African American,AR,Some College,F,Unmarried,0,3,$53 ,67
+1313,African American,NC,HS Diploma,M,Married,1,4,$32 ,64
+371,Caucasian,MO,Bach Degree,F,Unmarried,NA,6,$71 ,74
+889,Caucasian,SC,Some College,M,Unmarried,0,3,$48 ,28
+1336,Caucasian,AR,Grad Degree,F,Unmarried,0,7,$41 ,86
+189,African American,NC,Some College,F,Unmarried,NA,6,$84 ,70
+978,Caucasian,SC,Less Than HS Diploma,F,Unmarried,3,5,$5 ,56
+1123,African American,SC,Bach Degree,F,Unmarried,2,4,$56 ,56
+511,African American,NC,Some College,M,Unmarried,0,1,$11 ,52
+1027,Hispanic,NC,HS Diploma,M,Married,0,1,$36 ,40
+561,Caucasian,MO,HS Diploma,M,Unmarried,0,6,$69 ,36
+42,NA,MO,Less Than HS Diploma,M,Married,NA,1,$108 ,41
+390,African American,SC,Some College,F,Unmarried,0,1,$94 ,Unknown
+198,Asian,KY,Bach Degree,F,Married,NA,2,$51 ,38
+1387,Hispanic,MO,Less Than HS Diploma,F,Unmarried,0,1,$0 ,47
+418,Hispanic,OK,Less Than HS Diploma,M,Unmarried,0,1,$42 ,21
+1468,African American,AR,Less Than HS Diploma,F,Married,0,1,$34 ,44
+974,African American,OK,Grad Degree,F,Unmarried,0,1,$3 ,21
+351,African American,NC,Some College,M,Unmarried,0,1,$90 ,25
+236,African American,AL,Some College,NA,Unmarried,0,1,$14 ,71
+108,NA,MS,Bach Degree,M,Unmarried,0,6,$63 ,59
+1067,African American,AL,HS Diploma,F,Married,0,3,$46 ,49
+264,Caucasian,NC,HS Diploma,F,Unmarried,0,5,$66 ,33
+1291,NA,TN,Some College,M,Unmarried,0,1,$80 ,54
+1253,NA,MS,HS Diploma,F,Unmarried,1,1,$21 ,27
+565,Caucasian,GA,Less Than HS Diploma,F,Unmarried,0,1,$4 ,68
+140,NA,OK,Grad Degree,M,Unmarried,NA,3,$59 ,Unknown
+1377,Caucasian,TN,Some College,M,Unmarried,0,7,$143 ,20
+911,Caucasian,KY,Grad Degree,M,Unmarried,0,4,$41 ,20
+1058,African American,AR,HS Diploma,M,Unmarried,0,NA,$130 ,69
+1086,Caucasian,SC,Some College,M,Unmarried,0,NA,$57 ,22
+1131,Caucasian,GA,Bach Degree,F,Unmarried,1,3,$71 ,30
+373,Caucasian,GA,Some College,M,Unmarried,0,NA,$110 ,Unknown
+81,Caucasian,MS,Less Than HS Diploma,F,Unmarried,1,1,$2 ,38
+508,NA,AL,Some College,F,Unmarried,0,2,$59 ,23
+850,Caucasian,GA,Bach Degree,F,Married,NA,1,$141 ,30
+629,NA,AL,HS Diploma,M,Married,0,5,$92 ,50
+1,African American,MS,Some College,F,Unmarried,0,3,$42 ,80
+914,NA,GA,Grad Degree,F,Married,NA,NA,$59 ,60
+870,Caucasian,MS,HS Diploma,F,Married,0,3,$69 ,66
+258,NA,NC,Less Than HS Diploma,M,Unmarried,NA,4,$81 ,62
+1136,Caucasian,MO,HS Diploma,NA,Married,0,2,$51 ,41
+1158,Caucasian,GA,Less Than HS Diploma,M,Married,0,3,$27 ,97
+495,Hispanic,GA,Less Than HS Diploma,F,Unmarried,1,NA,$38 ,28
+74,African American,AL,Grad Degree,M,Unmarried,0,7,$57 ,28
+1011,NA,NC,Bach Degree,M,Married,0,4,$77 ,54
+729,NA,SC,Some College,M,Unmarried,1,4,$111 ,49
+718,African American,TN,Less Than HS Diploma,F,Unmarried,0,2,$58 ,62
+813,Caucasian,NC,Bach Degree,F,Unmarried,NA,NA,$124 ,46
+826,NA,MO,HS Diploma,F,Unmarried,1,6,$74 ,24
+16,Caucasian,MO,Some College,F,Married,0,NA,$77 ,28
+713,African American,NC,Grad Degree,M,Married,0,1,$90 ,41
+311,Hispanic,MO,HS Diploma,F,Unmarried,0,2,$24 ,22
+331,Hispanic,AR,Grad Degree,M,Married,0,1,$53 ,40
+514,African American,GA,Bach Degree,F,Unmarried,NA,NA,$62 ,53
+41,Caucasian,MS,Less Than HS Diploma,M,Unmarried,NA,1,$52 ,90
+1111,Caucasian,NC,Some College,F,Unmarried,0,5,$9 ,68
+101,Asian,GA,Less Than HS Diploma,NA,Unmarried,0,1,$18 ,24
+1000,Caucasian,GA,HS Diploma,M,Married,0,NA,$77 ,44
+221,African American,NC,Less Than HS Diploma,F,Unmarried,0,1,$13 ,89
+209,NA,NC,Bach Degree,M,Married,2,2,$99 ,56
+622,NA,AR,Some College,F,Married,0,NA,$60 ,21
+1150,Caucasian,GA,HS Diploma,F,Married,NA,1,$52 ,31
+367,Caucasian,SC,Some College,F,Married,2,4,$78 ,46
+212,NA,GA,NA,M,Unmarried,NA,7,$56 ,Unknown
+179,Caucasian,MO,Some College,F,Unmarried,0,1,$61 ,47
+98,NA,AL,HS Diploma,F,Married,0,NA,$95 ,Unknown
+998,Caucasian,OK,Less Than HS Diploma,M,Married,NA,1,$160 ,Unknown
+1016,Caucasian,AR,HS Diploma,M,Married,4,2,$12 ,25
+1289,NA,AR,Less Than HS Diploma,M,Unmarried,1,1,$59 ,32
+976,Caucasian,GA,Some College,F,Married,0,3,$50 ,52
+34,Caucasian,MO,Some College,F,Unmarried,0,2,$9 ,88
+477,Caucasian,MS,Less Than HS Diploma,F,Married,0,2,$30 ,68
+711,Caucasian,MO,Bach Degree,F,Unmarried,0,8,$61 ,68
+169,Caucasian,SC,Bach Degree,M,Married,NA,4,$84 ,89
+411,Caucasian,GA,Less Than HS Diploma,F,Married,1,3,$55 ,35
+981,Caucasian,OK,HS Diploma,NA,Unmarried,0,1,$30 ,58
+828,Hispanic,NC,Less Than HS Diploma,M,Unmarried,0,NA,$87 ,55
+1138,Caucasian,GA,Some College,F,Married,0,2,$71 ,54
+644,African American,NC,Bach Degree,F,Unmarried,0,1,$56 ,60
+1428,NA,KY,HS Diploma,F,Unmarried,0,6,$5 ,80
+1080,Caucasian,NC,Some College,M,Married,1,2,$31 ,48
+1498,Caucasian,AL,Some College,M,Married,0,NA,$69 ,Unknown
+1469,NA,MO,Grad Degree,M,Married,NA,NA,$81 ,Unknown
+1307,Hispanic,MS,Some College,F,Unmarried,0,1,$29 ,72
+892,African American,AL,HS Diploma,F,Unmarried,0,1,$6 ,28
+152,NA,TN,Bach Degree,M,Married,1,NA,$71 ,67
+701,Caucasian,GA,HS Diploma,NA,Married,0,1,$50 ,44
+392,Caucasian,AR,HS Diploma,F,Married,0,1,$63 ,87
+23,NA,,Bach Degree,F,Unmarried,NA,6,$232 ,95
+1196,Caucasian,TN,Bach Degree,F,Unmarried,NA,NA,$78 ,27
+851,Caucasian,AR,Less Than HS Diploma,F,Unmarried,1,NA,$109 ,31
+696,NA,MS,Bach Degree,M,Married,0,1,$69 ,46
+1220,Hispanic,GA,Some College,M,Married,NA,2,$79 ,30
+1230,Hispanic,MO,HS Diploma,M,Married,0,2,$37 ,23
+343,Caucasian,MO,Less Than HS Diploma,M,Married,NA,1,$67 ,50
+77,Caucasian,MO,Some College,M,Married,0,3,$97 ,59
+1412,Caucasian,SC,Some College,F,Unmarried,NA,3,$63 ,48
+961,Caucasian,GA,Bach Degree,M,Unmarried,NA,NA,$106 ,66
+1204,NA,AL,Some College,F,Married,0,2,$66 ,46
+132,Asian,OK,Some College,F,Married,0,3,$32 ,56
+131,Caucasian,NC,Bach Degree,F,Married,0,1,$63 ,29
+519,NA,MO,NA,M,Unmarried,3,3,$55 ,20
+494,African American,MO,Some College,F,Unmarried,0,1,$68 ,32
+288,Caucasian,GA,Some College,M,Married,0,3,$51 ,20
+157,NA,,NA,NA,NA,NA,NA,$61 ,Unknown
+580,African American,SC,HS Diploma,F,Married,0,2,$26 ,74
+1124,Caucasian,OK,Bach Degree,M,Married,3,2,$122 ,44
+1397,African American,NC,Some College,F,Unmarried,0,5,$15 ,58
+172,African American,GA,Some College,M,Married,NA,NA,$117 ,46
+1013,Hispanic,NC,Less Than HS Diploma,NA,Married,1,2,$50 ,46
+1476,Hispanic,AL,Less Than HS Diploma,M,Unmarried,0,3,$56 ,59
+205,Caucasian,AL,Less Than HS Diploma,M,Married,0,1,$41 ,56
+840,African American,AL,Less Than HS Diploma,F,Unmarried,NA,2,$6 ,85
+141,Caucasian,AR,Some College,F,Unmarried,0,1,$96 ,28
+496,Caucasian,AL,Less Than HS Diploma,F,Unmarried,0,1,$8 ,31
+739,Caucasian,SC,NA,F,Unmarried,1,3,$78 ,50
+609,African American,GA,HS Diploma,M,Unmarried,2,6,$25 ,21
+848,NA,AL,Bach Degree,M,Married,1,NA,$95 ,46
+503,Caucasian,OK,HS Diploma,F,Married,0,3,$37 ,80
+1442,NA,KY,NA,F,Married,NA,NA,$51 ,53
+1066,African American,AL,Some College,M,Unmarried,0,1,$30 ,47
+928,Asian,GA,Less Than HS Diploma,NA,Unmarried,0,1,$22 ,26
+538,Hispanic,NC,Less Than HS Diploma,M,Married,0,2,$35 ,50
+37,Caucasian,NC,HS Diploma,M,Married,0,1,$27 ,42
+517,NA,KY,HS Diploma,M,Married,NA,NA,$189 ,37
+54,African American,TN,Bach Degree,M,Unmarried,1,7,$56 ,70
+1334,African American,GA,HS Diploma,M,Unmarried,0,1,$39 ,75
+1226,Caucasian,MO,Some College,M,Unmarried,0,6,$24 ,61
+720,African American,NC,Some College,M,Unmarried,0,2,$98 ,25
+541,Caucasian,GA,Some College,M,Married,0,3,$12 ,44
+1325,African American,TN,HS Diploma,M,Unmarried,NA,1,$13 ,55
+1388,African American,GA,Some College,M,Unmarried,0,1,$13 ,24
+685,Caucasian,SC,Grad Degree,M,Married,0,NA,$122 ,34
+1440,African American,SC,HS Diploma,M,Married,0,1,$30 ,27
+603,Caucasian,KY,HS Diploma,F,Unmarried,0,8,$35 ,49
+883,Caucasian,GA,HS Diploma,F,Unmarried,1,4,$65 ,45
+1374,Caucasian,SC,Less Than HS Diploma,F,Unmarried,0,1,$15 ,89
+1314,Caucasian,GA,Bach Degree,M,Unmarried,0,1,$6 ,99
+1035,NA,NC,Grad Degree,F,Unmarried,0,1,$6 ,34
+697,Caucasian,KY,Bach Degree,M,Unmarried,0,5,$93 ,43
+87,African American,MO,Some College,M,Unmarried,0,1,$12 ,21
+365,African American,GA,Some College,M,Unmarried,0,1,$39 ,53
+814,Caucasian,GA,Bach Degree,F,Unmarried,0,3,$76 ,35
+520,NA,SC,Bach Degree,M,Married,0,2,$83 ,52
+1237,Caucasian,KY,HS Diploma,F,Unmarried,NA,1,$11 ,56
+779,African American,MO,Grad Degree,M,Unmarried,0,4,$43 ,26
+796,Caucasian,NC,NA,F,Married,0,NA,$102 ,56
+1288,NA,KY,Some College,F,Married,0,2,$47 ,49
+524,Hispanic,GA,HS Diploma,F,Married,1,NA,$58 ,35
+926,African American,,NA,NA,Unmarried,0,3,$257 ,21
+453,Caucasian,GA,HS Diploma,F,Married,0,3,$39 ,58
+564,African American,AL,HS Diploma,F,Unmarried,0,1,$27 ,90
+1143,NA,TN,Grad Degree,F,Unmarried,0,NA,$120 ,36
+591,Caucasian,SC,Bach Degree,M,Married,0,NA,$95 ,55
+377,Caucasian,MO,Less Than HS Diploma,F,Unmarried,0,6,$40 ,59
+798,African American,MO,Less Than HS Diploma,M,Unmarried,0,1,$45 ,60
+276,African American,KY,Less Than HS Diploma,M,Married,0,1,$33 ,32
+1460,Caucasian,MO,Some College,M,Unmarried,0,5,$80 ,50
+1393,NA,NC,Grad Degree,NA,Unmarried,3,NA,$47 ,59
+341,Hispanic,TN,Less Than HS Diploma,M,Married,0,2,$59 ,73
+1233,African American,NC,Some College,M,Unmarried,0,1,$60 ,44
+595,Hispanic,GA,Less Than HS Diploma,M,Married,1,7,$3 ,58
+300,NA,KY,Grad Degree,F,Unmarried,2,4,$73 ,46
+163,Caucasian,AR,Some College,F,Unmarried,0,NA,$74 ,53
+542,NA,AR,HS Diploma,F,Married,0,1,$84 ,41
+754,Hispanic,NC,Less Than HS Diploma,M,Unmarried,0,1,$38 ,20
+780,Caucasian,AL,Less Than HS Diploma,M,Married,0,1,$74 ,68
+1382,Caucasian,GA,Bach Degree,M,Unmarried,NA,3,$95 ,33
+785,Caucasian,AR,HS Diploma,M,Married,0,1,$38 ,Unknown
+97,African American,GA,Some College,M,Unmarried,0,NA,$65 ,66
+1048,African American,AR,HS Diploma,F,Married,NA,5,$49 ,46
+232,NA,NC,Grad Degree,M,Unmarried,0,1,$68 ,43
+430,Hispanic,MO,Grad Degree,F,Married,4,4,$82 ,20
+1168,NA,AR,Bach Degree,F,Married,0,3,$92 ,Unknown
+676,African American,AR,HS Diploma,M,Married,0,2,$4 ,77
+148,African American,AL,Less Than HS Diploma,M,Married,0,2,$72 ,59
+612,African American,,Some College,M,Married,NA,2,$82 ,71
+164,NA,GA,Some College,NA,Married,0,1,$99 ,22
+234,NA,KY,HS Diploma,F,Married,0,2,$40 ,44
+46,Caucasian,MO,HS Diploma,F,Unmarried,2,4,$49 ,22
+1475,NA,OK,Some College,F,Married,0,3,$60 ,37
+481,Caucasian,OK,Some College,M,Married,0,1,$39 ,24
+667,African American,NC,Bach Degree,F,Married,NA,6,$117 ,75
+35,Caucasian,TN,Grad Degree,M,Unmarried,NA,NA,$238 ,25
+1378,Caucasian,MO,HS Diploma,M,Married,0,1,$60 ,68
+383,NA,AL,Bach Degree,F,Married,NA,1,$66 ,44
+1485,Caucasian,NC,Some College,F,Unmarried,0,NA,$79 ,50
+27,NA,GA,Some College,M,Unmarried,NA,5,$91 ,39
+459,African American,GA,HS Diploma,F,Married,0,6,$34 ,52
+1074,Caucasian,AR,Less Than HS Diploma,F,Unmarried,0,3,$5 ,24
+1262,African American,SC,HS Diploma,F,Unmarried,0,2,$35 ,85
+645,African American,TN,HS Diploma,F,Married,0,5,$34 ,53
+753,Caucasian,SC,Bach Degree,F,Unmarried,1,NA,$56 ,34
+818,Caucasian,MS,NA,M,Unmarried,NA,NA,$260 ,72
+747,Asian,SC,Bach Degree,M,Married,NA,2,$143 ,52
+1488,African American,NC,Bach Degree,F,Married,0,2,$47 ,28
+43,African American,MO,Grad Degree,NA,Married,0,2,$35 ,37
+256,NA,GA,Less Than HS Diploma,F,Married,1,1,$5 ,20
+437,Caucasian,NC,HS Diploma,M,Unmarried,0,1,$46 ,55
+642,Caucasian,TN,Some College,M,Married,0,4,$10 ,52
+419,NA,NC,Bach Degree,F,Married,NA,3,$108 ,42
+1341,NA,OK,Some College,NA,Married,0,2,$89 ,26
+693,Caucasian,OK,Grad Degree,F,Unmarried,0,1,$47 ,23
+1363,Caucasian,MS,Some College,NA,Unmarried,0,NA,$27 ,49
+68,NA,NC,Some College,F,Married,NA,3,$75 ,35
+53,Caucasian,TN,HS Diploma,NA,Unmarried,0,2,$40 ,36
+1263,Caucasian,AL,Bach Degree,F,Married,2,6,$117 ,46
+387,Caucasian,GA,Bach Degree,M,Married,0,NA,$70 ,32
+1401,Caucasian,TN,HS Diploma,F,Married,5,3,$41 ,20
+52,NA,GA,Less Than HS Diploma,F,Unmarried,NA,4,$122 ,38
+1096,African American,KY,Some College,F,Unmarried,0,1,$11 ,54
+4,Caucasian,SC,HS Diploma,M,Unmarried,0,2,$53 ,26
+1275,NA,MS,Some College,M,Unmarried,NA,NA,$202 ,23
+505,Caucasian,NC,Some College,M,Married,1,5,$89 ,24
+1454,Caucasian,SC,Some College,M,Married,2,4,$50 ,59
+1356,Caucasian,OK,HS Diploma,M,Married,1,NA,$106 ,30
+242,African American,SC,HS Diploma,F,Married,0,NA,$67 ,56
+228,NA,SC,HS Diploma,F,Married,NA,1,$153 ,Unknown
+906,African American,MO,Some College,M,Unmarried,0,1,$44 ,23
+238,Caucasian,GA,HS Diploma,M,Married,0,NA,$14 ,24
+1302,Caucasian,GA,Some College,M,Unmarried,0,3,$57 ,20
+309,Caucasian,KY,Some College,M,Unmarried,0,1,$39 ,58
+190,NA,NC,Bach Degree,M,Married,0,2,$10 ,78
+281,African American,NC,Grad Degree,F,Married,0,4,$68 ,72
+949,Caucasian,TN,HS Diploma,M,Married,1,4,$30 ,31
+1235,African American,AR,Bach Degree,F,Married,0,1,$18 ,84
+899,Caucasian,TN,Some College,F,Married,0,NA,$88 ,60
+1277,Caucasian,KY,Bach Degree,M,Unmarried,0,3,$81 ,30
+223,Hispanic,AR,HS Diploma,F,Married,3,2,$7 ,25
+1008,African American,NC,Less Than HS Diploma,M,Unmarried,0,1,$24 ,21
+1063,Caucasian,KY,HS Diploma,F,Married,0,1,$34 ,28
+1337,NA,,NA,F,Unmarried,1,NA,$182 ,33
+527,Hispanic,KY,Less Than HS Diploma,M,Married,0,1,$40 ,34
+1012,NA,AL,Some College,M,Married,0,2,$0 ,50
+1146,Caucasian,MO,Some College,F,Unmarried,0,1,$28 ,46
+594,Caucasian,MO,Some College,M,Married,NA,2,$51 ,45
+1042,Caucasian,KY,Grad Degree,M,Married,0,1,$32 ,81
+784,Caucasian,MS,HS Diploma,F,Married,0,NA,$61 ,72
+611,Caucasian,OK,HS Diploma,F,Unmarried,0,1,$17 ,61
+443,Caucasian,AR,Some College,M,Unmarried,1,1,$68 ,28
+284,Caucasian,SC,Grad Degree,M,Married,0,3,$51 ,Unknown
+1152,NA,OK,Some College,M,Married,0,1,$93 ,69
+438,African American,GA,HS Diploma,F,Unmarried,0,1,$7 ,46
+1315,Caucasian,NC,HS Diploma,F,Married,0,1,$35 ,63
+1272,Caucasian,MO,Some College,F,Unmarried,0,2,$79 ,53
+716,Asian,GA,Some College,F,Married,0,3,$218 ,48
+918,African American,TN,Less Than HS Diploma,F,Unmarried,0,1,$5 ,53
+660,Caucasian,KY,HS Diploma,F,Unmarried,0,1,$5 ,87
+671,Caucasian,OK,HS Diploma,M,Unmarried,1,6,$76 ,25
+910,Caucasian,AL,HS Diploma,F,Unmarried,1,6,$60 ,37
+907,NA,NC,Some College,F,Married,NA,NA,$168 ,44
+616,African American,MS,Some College,M,Unmarried,0,2,$55 ,25
+695,Caucasian,MO,HS Diploma,M,Married,1,1,$38 ,24
+363,Caucasian,GA,Bach Degree,F,Unmarried,0,1,$29 ,81
+930,African American,AR,Some College,F,Unmarried,0,8,$27 ,60
+199,Caucasian,TN,Some College,F,Married,2,NA,$101 ,24
+651,African American,NC,Grad Degree,F,Married,1,2,$20 ,20
+1185,NA,MO,Some College,F,Unmarried,0,NA,$283 ,37
+757,Caucasian,MO,Grad Degree,M,Married,0,NA,$73 ,32
+1385,Caucasian,NC,Some College,M,Married,0,2,$25 ,20
+664,African American,KY,Some College,F,Married,0,2,$15 ,45
+57,Caucasian,KY,Less Than HS Diploma,M,Married,0,3,$75 ,60
+682,Caucasian,KY,Some College,F,Unmarried,1,7,$89 ,Unknown
+1391,Caucasian,NC,HS Diploma,F,Married,0,1,$122 ,Unknown
+76,NA,TN,Grad Degree,F,Unmarried,0,1,$61 ,33
+596,African American,SC,Grad Degree,NA,Unmarried,1,4,$42 ,57
+509,NA,KY,Some College,F,Married,0,3,$55 ,41
+556,Caucasian,SC,Less Than HS Diploma,M,Married,0,1,$53 ,35
+1264,African American,SC,HS Diploma,F,Unmarried,1,7,$33 ,55
+864,NA,MO,Bach Degree,NA,Unmarried,0,4,$148 ,86
+1081,Caucasian,MS,Less Than HS Diploma,NA,Married,1,1,$14 ,38
+1159,Caucasian,OK,Less Than HS Diploma,F,Unmarried,0,1,$34 ,66
+82,Hispanic,OK,Less Than HS Diploma,NA,Unmarried,0,NA,$62 ,24
+1266,NA,SC,Less Than HS Diploma,F,Unmarried,1,NA,$68 ,65
+31,NA,NC,HS Diploma,F,Married,1,3,$81 ,30
+1015,NA,TN,Grad Degree,M,Unmarried,0,4,$93 ,74
+980,African American,NC,HS Diploma,F,Unmarried,1,2,$23 ,74
+719,Caucasian,NC,NA,M,Married,NA,3,$99 ,54
+640,Caucasian,TN,HS Diploma,F,Unmarried,0,8,$64 ,71
+777,NA,GA,Less Than HS Diploma,F,Married,0,1,$34 ,49
+621,Caucasian,NC,Some College,NA,Unmarried,2,2,$16 ,46
+1178,NA,AR,Some College,M,Married,NA,5,$119 ,20
+957,Caucasian,SC,Less Than HS Diploma,M,Unmarried,0,1,$13 ,85
+1151,Caucasian,GA,Bach Degree,M,Married,2,NA,$95 ,67
+400,Hispanic,GA,NA,M,Unmarried,NA,4,$135 ,77
+482,Hispanic,TN,Less Than HS Diploma,F,Married,0,2,$82 ,69
+127,African American,AR,HS Diploma,F,Married,0,5,$7 ,40
+1411,Caucasian,KY,Some College,M,Unmarried,2,NA,$73 ,50
+473,Caucasian,MO,Some College,F,Married,0,3,$37 ,58
+712,Caucasian,SC,HS Diploma,F,Married,0,1,$94 ,54
+863,Caucasian,KY,HS Diploma,M,Married,0,2,$65 ,50
+1054,Caucasian,GA,Less Than HS Diploma,M,Unmarried,0,1,$59 ,35
+569,NA,NC,Grad Degree,M,Married,0,NA,$170 ,66
+670,African American,GA,HS Diploma,M,Unmarried,0,1,$77 ,68
+110,Caucasian,MO,HS Diploma,NA,Married,2,3,$21 ,21
+1173,Caucasian,SC,Bach Degree,F,Married,NA,4,$95 ,62
+1484,African American,AR,HS Diploma,M,Unmarried,0,4,$81 ,48
+1043,African American,GA,Less Than HS Diploma,F,Unmarried,0,2,$89 ,21
+567,Caucasian,GA,Some College,M,Married,6,2,$54 ,48
+544,African American,MO,HS Diploma,F,Unmarried,1,6,$33 ,24
+12,Caucasian,MO,Grad Degree,F,Unmarried,NA,4,$75 ,24
+581,NA,TN,HS Diploma,F,Married,NA,2,$91 ,47
+449,Caucasian,GA,Some College,F,Unmarried,0,3,$8 ,27
+1113,Caucasian,NC,Some College,M,Married,0,1,$53 ,45
+1399,African American,MO,Some College,F,Married,1,2,$31 ,37
+1177,African American,AR,HS Diploma,M,Married,0,4,$27 ,68
+684,Caucasian,OK,HS Diploma,F,Unmarried,0,NA,$68 ,60
+347,Caucasian,TN,Some College,F,Married,3,3,$66 ,51
+1294,African American,AL,Less Than HS Diploma,F,Married,0,3,$35 ,66
+441,NA,NC,Bach Degree,M,Married,0,1,$225 ,87
+582,Caucasian,MO,Some College,F,Unmarried,0,3,$58 ,35
+1144,African American,GA,Grad Degree,F,Married,0,1,$36 ,32
+849,Caucasian,OK,HS Diploma,M,Unmarried,0,6,$61 ,57
+1108,African American,MS,HS Diploma,F,Unmarried,0,1,$48 ,82
+502,NA,NC,NA,M,Unmarried,0,5,$76 ,25
+187,African American,AR,Some College,M,Unmarried,0,1,$80 ,64
+971,African American,TN,HS Diploma,F,Married,0,2,$26 ,54
+733,Caucasian,AL,Bach Degree,M,Married,1,5,$84 ,25
+933,Caucasian,AR,Bach Degree,M,Unmarried,0,7,$65 ,60
+22,African American,NC,Less Than HS Diploma,F,Unmarried,0,1,$27 ,65
+1084,Caucasian,GA,Some College,F,Married,1,5,$14 ,60
+991,NA,MO,Some College,F,Unmarried,1,5,$80 ,52
+772,Caucasian,TN,Some College,M,Unmarried,0,NA,$62 ,76
+1229,NA,TN,Some College,M,Married,NA,2,$83 ,33
+522,African American,NC,Some College,F,Married,0,4,$66 ,44
+489,Hispanic,NC,Some College,NA,Unmarried,0,1,$16 ,57
+1236,African American,MO,Some College,F,Unmarried,0,1,$8 ,29
+732,African American,MS,HS Diploma,F,Unmarried,0,2,$11 ,32
+1319,African American,GA,HS Diploma,M,Unmarried,0,NA,$90 ,58
+740,African American,GA,Some College,F,Married,0,1,$65 ,38
+1439,African American,MO,Bach Degree,F,Married,NA,NA,$89 ,34
+1224,African American,NC,HS Diploma,F,Married,0,1,$71 ,57
+91,Caucasian,NC,HS Diploma,F,Unmarried,NA,NA,$86 ,22
+272,Caucasian,MO,Some College,M,Unmarried,0,NA,$74 ,39
+865,Caucasian,SC,Grad Degree,F,Married,0,1,$98 ,24
+1097,African American,GA,HS Diploma,F,Unmarried,0,1,$57 ,57
+336,NA,NC,NA,NA,Married,0,1,$132 ,Unknown
+1306,Caucasian,MO,Some College,M,Unmarried,0,4,$57 ,34
+510,Caucasian,AL,HS Diploma,F,Unmarried,0,6,$36 ,43
+386,Caucasian,MS,Some College,F,Married,0,2,$59 ,61
+491,Caucasian,GA,HS Diploma,M,Unmarried,0,7,$29 ,31
+668,African American,GA,Bach Degree,M,Unmarried,0,6,$57 ,24
+472,Caucasian,TN,Bach Degree,M,Unmarried,0,3,$61 ,35
+1050,African American,NC,Some College,F,Unmarried,0,1,$93 ,52
+543,African American,SC,Some College,M,Unmarried,0,3,$59 ,27
+55,Caucasian,SC,Some College,F,Unmarried,NA,3,$159 ,32
+1257,Caucasian,MO,Grad Degree,M,Married,0,2,$26 ,63
+479,NA,KY,Less Than HS Diploma,M,Married,0,3,$19 ,88
+678,African American,AL,Less Than HS Diploma,M,Married,0,1,$27 ,40
+1170,Caucasian,KY,Bach Degree,F,Married,0,NA,$146 ,75
+537,African American,GA,Some College,M,Unmarried,0,4,$40 ,20
+1353,African American,NC,HS Diploma,M,Married,1,2,$66 ,56
+703,Caucasian,TN,HS Diploma,F,Married,0,2,$7 ,83
+463,Caucasian,TN,Bach Degree,F,Married,1,5,$3 ,70
+1267,African American,GA,Less Than HS Diploma,M,Unmarried,0,1,$12 ,90
+648,Caucasian,TN,Bach Degree,F,Married,0,NA,$61 ,41
+686,NA,AL,Some College,F,Unmarried,0,1,$59 ,34
+1053,Caucasian,TN,Some College,F,Married,0,1,$72 ,25
+1193,NA,MO,HS Diploma,F,Married,0,3,$54 ,20
+484,Caucasian,SC,Some College,M,Married,0,2,$74 ,40
+342,African American,AR,HS Diploma,M,Married,0,3,$95 ,61
+36,NA,TN,HS Diploma,M,Married,1,2,$48 ,45
+1248,Caucasian,GA,HS Diploma,F,Unmarried,NA,4,$84 ,29
+1222,Caucasian,AR,Grad Degree,F,Unmarried,0,3,$54 ,78
+115,African American,MO,Some College,F,Married,4,4,$83 ,35
+672,Caucasian,NC,Some College,M,Married,1,2,$9 ,40
+1346,African American,OK,Some College,M,Married,4,4,$45 ,54
+493,African American,GA,Some College,M,Married,1,3,$61 ,36
+1478,NA,NC,Some College,F,Unmarried,0,1,$61 ,89
+1090,NA,NC,Grad Degree,M,Unmarried,NA,NA,$233 ,21
+875,NA,OK,Bach Degree,F,Unmarried,0,6,$97 ,28
+680,Caucasian,OK,Grad Degree,M,Unmarried,0,6,$35 ,22
+528,Hispanic,MS,Some College,F,Married,NA,1,$78 ,45
+610,Caucasian,NC,Some College,F,Married,0,3,$89 ,79
+689,African American,AL,Grad Degree,M,Unmarried,0,1,$60 ,22
+1429,Caucasian,AL,HS Diploma,NA,Married,0,1,$125 ,25
+103,Asian,AL,HS Diploma,NA,Married,0,2,$67 ,30
+218,Caucasian,AR,HS Diploma,F,Married,1,2,$12 ,57
+1445,Hispanic,NC,HS Diploma,M,Unmarried,2,5,$83 ,37
+396,Caucasian,AR,Some College,M,Married,0,4,$7 ,40
+1227,Caucasian,SC,Some College,M,Unmarried,NA,3,$137 ,77
+721,Caucasian,AL,Bach Degree,F,Married,0,NA,$96 ,72
+555,African American,AR,HS Diploma,M,Married,0,1,$30 ,33
+1372,NA,OK,Bach Degree,F,Unmarried,NA,3,$65 ,23
+139,Caucasian,NC,HS Diploma,F,Married,0,NA,$64 ,61
+440,NA,AL,Some College,M,Married,0,3,$85 ,48
+504,NA,GA,Bach Degree,M,Unmarried,0,4,$78 ,31
+655,NA,TN,Bach Degree,M,Married,0,2,$99 ,53
+1441,Caucasian,SC,Some College,F,Unmarried,0,1,$65 ,41
+461,Caucasian,GA,Some College,M,Unmarried,0,5,$61 ,41
+805,Caucasian,TN,HS Diploma,F,Unmarried,0,1,$19 ,54
+111,Caucasian,AL,Bach Degree,F,Married,0,2,$114 ,24
+344,Caucasian,AR,Some College,F,Unmarried,0,NA,$123 ,29
+1437,NA,KY,HS Diploma,M,Married,1,5,$53 ,65
+203,Caucasian,NC,Bach Degree,M,Unmarried,NA,NA,$84 ,24
+237,Hispanic,NC,Less Than HS Diploma,M,Married,0,1,$30 ,29
+154,Caucasian,NC,HS Diploma,F,Married,0,2,$72 ,32
+333,NA,MO,Bach Degree,M,Unmarried,NA,NA,$252 ,25
+903,Caucasian,KY,Some College,F,Unmarried,3,3,$46 ,45
+214,NA,AL,Grad Degree,F,Unmarried,NA,NA,$262 ,49
+1241,Caucasian,GA,Bach Degree,M,Unmarried,NA,NA,$279 ,54
+1095,Hispanic,KY,HS Diploma,F,Married,0,3,$35 ,62
+958,NA,GA,HS Diploma,F,Unmarried,0,1,$25 ,52
+385,NA,KY,NA,M,Married,NA,3,$230 ,58
+1184,African American,AR,Bach Degree,F,Married,NA,2,$53 ,56
+853,Caucasian,SC,HS Diploma,F,Unmarried,0,3,$69 ,20
+135,Caucasian,KY,Bach Degree,F,Unmarried,NA,5,$110 ,43
+927,NA,GA,Less Than HS Diploma,M,Married,NA,2,$60 ,62
+558,NA,KY,Some College,M,Unmarried,NA,4,$138 ,21
+587,Caucasian,MO,Some College,M,Married,1,3,$68 ,62
+243,Caucasian,GA,Bach Degree,M,Unmarried,1,4,$96 ,61
+38,Caucasian,MO,Bach Degree,M,Unmarried,0,3,$90 ,36
+26,Caucasian,AR,Some College,F,Unmarried,3,2,$32 ,40
+268,Caucasian,NC,Some College,F,Married,0,1,$64 ,Unknown
+269,Caucasian,GA,NA,F,Married,0,NA,$132 ,46
+649,Caucasian,OK,Less Than HS Diploma,F,Married,0,1,$28 ,30
+1389,African American,GA,Less Than HS Diploma,F,Unmarried,0,1,$6 ,67
+1322,African American,NC,HS Diploma,F,Married,0,2,$96 ,32
+774,Caucasian,GA,Some College,F,Married,0,2,$23 ,76
+1438,Caucasian,OK,HS Diploma,M,Married,4,3,$50 ,57
+1089,Caucasian,NC,Bach Degree,F,Married,0,6,$145 ,31
+1060,NA,NC,HS Diploma,M,Married,NA,NA,$258 ,Unknown
+388,NA,MO,HS Diploma,M,Married,0,NA,$253 ,50
+250,Caucasian,MS,Some College,F,Married,0,1,$6 ,38
+1079,Caucasian,AL,HS Diploma,M,Unmarried,0,1,$28 ,74
+114,African American,AR,HS Diploma,F,Unmarried,0,1,$2 ,68
+62,Caucasian,NC,Less Than HS Diploma,M,Married,0,2,$54 ,46
+222,Caucasian,OK,Some College,NA,Unmarried,0,4,$94 ,53
+727,NA,MS,Bach Degree,F,NA,0,NA,$88 ,46
+1242,African American,GA,HS Diploma,M,Married,0,2,$24 ,51
+1121,Caucasian,NC,Grad Degree,F,Married,0,1,$92 ,69
+1280,NA,GA,Grad Degree,F,Unmarried,3,4,$244 ,46
+866,Caucasian,TN,Bach Degree,M,Married,NA,6,$133 ,76
+1305,Caucasian,SC,Some College,M,Married,0,2,$71 ,68
+1462,Caucasian,TN,Bach Degree,F,Unmarried,0,6,$127 ,61
+455,Caucasian,SC,Some College,M,Married,0,4,$83 ,Unknown
+765,Caucasian,AR,HS Diploma,F,Married,0,2,$23 ,31
+1032,African American,AL,Less Than HS Diploma,F,Unmarried,1,1,$4 ,57
+417,Caucasian,OK,Less Than HS Diploma,F,Married,NA,1,$84 ,39
+617,NA,MO,Bach Degree,M,Married,NA,5,$90 ,49
+499,NA,GA,NA,F,Married,0,2,$250 ,21
+1187,Caucasian,KY,Bach Degree,F,Married,0,2,$62 ,37
+155,NA,NC,HS Diploma,M,Married,0,7,$27 ,73
+1355,Caucasian,OK,Bach Degree,F,Unmarried,0,1,$36 ,63
+675,Caucasian,SC,Less Than HS Diploma,M,Married,0,2,$71 ,24
+289,Caucasian,SC,Grad Degree,M,Married,NA,NA,$96 ,56
+298,Caucasian,SC,Bach Degree,M,Unmarried,0,NA,$164 ,77
+653,NA,,Some College,M,Married,0,NA,$65 ,36
+947,African American,NC,NA,F,Unmarried,0,4,$74 ,83
+1381,Caucasian,SC,Some College,M,Married,0,1,$58 ,42
+210,Hispanic,NC,HS Diploma,F,Married,0,1,$131 ,31
+786,Caucasian,GA,HS Diploma,F,Married,1,2,$77 ,65
+24,African American,NC,Less Than HS Diploma,M,Married,0,2,$66 ,27
+513,Caucasian,MS,NA,F,Married,0,3,$69 ,72
+1169,Caucasian,MS,Some College,M,Unmarried,NA,4,$34 ,31
+967,Asian,NC,Some College,F,Married,1,2,$207 ,38
